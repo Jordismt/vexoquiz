@@ -1,0 +1,233 @@
+[
+  {
+    "id": 36,
+    "category": "gaming",
+    "title": "¿Qué clase de RPG serías en la vida real?",
+    "description": "Tu personalidad define tu rol en la party. ¿Tanque, Mago o Pícaro?",
+    "questions": [
+      {"text":"En una pelea, tú:", "options":[{"text":"Protejo a mis amigos","score":2},{"text":"Ataco desde lejos","score":8},{"text":"Busco el punto débil en silencio","score":10},{"text":"Curo las heridas","score":5}]},
+      {"text":"Tu estadística favorita:", "options":[{"text":"Fuerza","score":2},{"text":"Inteligencia","score":8},{"text":"Agilidad","score":10},{"text":"Carisma","score":5}]},
+      {"text":"¿Qué arma prefieres?", "options":[{"text":"Un gran escudo","score":2},{"text":"Un bastón mágico","score":8},{"text":"Dagas dobles","score":10},{"text":"Un arco","score":7}]},
+      {"text":"Si encuentras un cofre con trampa:", "options":[{"text":"Lo abro a la fuerza","score":2},{"text":"Uso un hechizo de detección","score":8},{"text":"Intento desactivarla con cuidado","score":10},{"text":"Pido a otro que lo abra","score":5}]},
+      {"text":"Tu color favorito de armadura:", "options":[{"text":"Dorado/Plateado","score":2},{"text":"Azul/Morado","score":8},{"text":"Negro/Gris","score":10},{"text":"Verde/Blanco","score":5}]},
+      {"text":"¿Cómo resuelves un problema?", "options":[{"text":"Directo al grano","score":2},{"text":"Analizando todas las variables","score":8},{"text":"Buscando un atajo ingenioso","score":10},{"text":"Hablando","score":5}]},
+      {"text":"En el gimnasio prefieres:", "options":[{"text":"Levantar mucho peso","score":2},{"text":"Yoga o meditación","score":8},{"text":"Cardio y velocidad","score":10},{"text":"No voy al gimnasio","score":5}]},
+      {"text":"¿Qué poción comprarías primero?", "options":[{"text":"Fuerza titánica","score":2},{"text":"Maná infinito","score":8},{"text":"Invisibilidad","score":10},{"text":"Salud máxima","score":5}]},
+      {"text":"Tu lugar ideal para vivir:", "options":[{"text":"Un castillo fortificado","score":2},{"text":"Una torre aislada","score":8},{"text":"Una guarida secreta","score":10},{"text":"Un bosque tranquilo","score":5}]},
+      {"text":"¿Cuál es tu mayor miedo?", "options":[{"text":"Ser débil","score":2},{"text":"Ser ignorante","score":8},{"text":"Ser atrapado","score":10},{"text":"Estar solo","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Guerrero/Tanque 🛡️ - Eres el pilar del grupo. Valiente, fuerte y siempre fiel."},
+      {"minScore":36,"maxScore":75,"text":"Mago/Hechicero 🧙‍♂️ - Tu mente es tu mejor arma. Sabio y con gran visión."},
+      {"minScore":76,"maxScore":110,"text":"Pícaro/Asesino 🗡️ - Eres rápido, astuto y prefieres que nadie te vea venir."}
+    ]
+  },
+  {
+    "id": 37,
+    "category": "gaming",
+    "title": "¿Eres un Noob o un Pro Gamer?",
+    "description": "Demuestra si realmente sabes de videojuegos o solo juegas al Candy Crush.",
+    "questions": [
+      {"text":"¿Qué significan las siglas 'FPS'?", "options":[{"text":"Frames Per Second","score":5},{"text":"First Person Shooter","score":5},{"text":"Ambas son correctas","score":10},{"text":"Fast Playing System","score":0}]},
+      {"text":"¿Cómo se llama el protagonista de 'The Legend of Zelda'?", "options":[{"text":"Zelda","score":0},{"text":"Link","score":10},{"text":"Ganon","score":2},{"text":"Luigi","score":0}]},
+      {"text":"¿Qué haces si te matan en un jefe difícil?", "options":[{"text":"Borro el juego","score":0},{"text":"Analizo su patrón de ataque","score":10},{"text":"Busco un tutorial en YouTube","score":5},{"text":"Grito al monitor","score":2}]},
+      {"text":"¿Cuál es el periférico más importante para ti?", "options":[{"text":"Un ratón con muchos botones","score":8},{"text":"Un monitor de 144Hz","score":10},{"text":"Unos cascos con luces","score":5},{"text":"Me da igual, juego con mando","score":2}]},
+      {"text":"¿Qué es el 'Lag'?", "options":[{"text":"Un tipo de comida","score":0},{"text":"Retraso en la conexión","score":10},{"text":"Un error gráfico","score":5},{"text":"Un personaje de anime","score":0}]},
+      {"text":"¿Cuál de estos es un juego 'Soulslike'?", "options":[{"text":"Elden Ring","score":10},{"text":"FIFA 24","score":0},{"text":"Animal Crossing","score":0},{"text":"Minecraft","score":2}]},
+      {"text":"¿Qué significa 'GG'?", "options":[{"text":"Good Game","score":10},{"text":"Go Go","score":2},{"text":"Gran Golpe","score":0},{"text":"Ganas de Ganar","score":5}]},
+      {"text":"¿Cuántas horas juegas a la semana?", "options":[{"text":"Menos de 5","score":2},{"text":"Entre 5 y 15","score":5},{"text":"Más de 30","score":10},{"text":"No cuento, vivo en el PC","score":12}]},
+      {"text":"¿Conoces el código Konami?", "options":[{"text":"Arriba, Arriba, Abajo...","score":10},{"text":"Es un mito","score":0},{"text":"Solo para expertos","score":5},{"text":"Me suena de una peli","score":2}]},
+      {"text":"¿Qué es un 'Speedrun'?", "options":[{"text":"Pasarse un juego lo más rápido posible","score":10},{"text":"Correr mucho en el GTA","score":2},{"text":"Un juego de carreras","score":0},{"text":"Un maratón de gaming","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Casual/Noob 🐥 - Juegas para pasar el rato, pero te falta mucho nivel."},
+      {"minScore":41,"maxScore":80,"text":"Gamer Habitual 🎮 - Sabes de lo que hablas y te defiendes bien en cualquier género."},
+      {"minScore":81,"maxScore":110,"text":"Pro Gamer 🏆 - Eres la élite. Tu nivel de conocimiento y habilidad es legendario."}
+    ]
+  },
+  {
+    "id": 38,
+    "category": "gaming",
+    "title": "¿En qué mundo de videojuego vivirías?",
+    "description": "Tu estilo de vida encaja con un universo virtual.",
+    "questions": [
+        {"text":"¿Cómo prefieres viajar?", "options":[{"text":"A caballo por praderas","score":2},{"text":"En coche volador","score":10},{"text":"A pie por el bosque","score":5},{"text":"En una nave espacial","score":8}]},
+        {"text":"Tu actividad favorita:", "options":[{"text":"Construir casas con bloques","score":5},{"text":"Pelear contra monstruos","score":2},{"text":"Comprar ropa y salir de fiesta","score":8},{"text":"Explorar planetas","score":10}]},
+        {"text":"¿Qué comerías?", "options":[{"text":"Una seta que me hace crecer","score":2},{"text":"Comida sintetizada","score":10},{"text":"Lo que cace yo mismo","score":5},{"text":"Un elixir mágico","score":8}]},
+        {"text":"¿Cómo es la gente allí?", "options":[{"text":"Muy amable y redonda","score":2},{"text":"Ciborgs y criminales","score":10},{"text":"Aldeanos que solo dicen 'Hrmm'","score":5},{"text":"Guerreros medievales","score":8}]},
+        {"text":"¿Cuál es el peligro principal?", "options":[{"text":"Tortugas con pinchos","score":2},{"text":"Megacorporaciones corruptas","score":10},{"text":"Zombies explosivos","score":5},{"text":"Dragones gigantes","score":8}]},
+        {"text":"¿Cuál es la moneda?", "options":[{"text":"Monedas de oro","score":2},{"text":"Créditos digitales","score":10},{"text":"Esmeraldas","score":5},{"text":"Tapas de botella","score":12}]},
+        {"text":"¿Cómo es el clima?", "options":[{"text":"Siempre soleado","score":2},{"text":"Lluvia ácida y luces neón","score":10},{"text":"Cambia según el bioma","score":5},{"text":"Post-apocalíptico","score":8}]},
+        {"text":"Tu casa ideal sería:", "options":[{"text":"Un champiñón gigante","score":2},{"text":"Un ático tecnológico","score":10},{"text":"Un refugio subterráneo","score":12},{"text":"Una tienda de campaña","score":5}]},
+        {"text":"¿Qué música suena de fondo?", "options":[{"text":"Melodías alegres de 8 bits","score":2},{"text":"Synthwave y Techno","score":10},{"text":"Sonidos de la naturaleza","score":5},{"text":"Coros épicos en latín","score":8}]},
+        {"text":"¿Cómo termina tu día?", "options":[{"text":"Bajando una bandera","score":2},{"text":"Hackeando un sistema","score":10},{"text":"Durmiendo en una cama de lana","score":5},{"text":"Salvando el mundo","score":8}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Reino Champiñón (Mario) 🍄 - Tu vida es colorida, alegre y llena de saltos."},
+        {"minScore":36,"maxScore":75,"text":"Mundo Minecraft 🧱 - Amas la libertad, la creatividad y el trabajo duro."},
+        {"minScore":76,"maxScore":115,"text":"Night City (Cyberpunk) ⚡ - Eres futurista, rebelde y vives al límite."}
+    ]
+  },
+  {
+    "id": 39,
+    "category": "gaming",
+    "title": "¿Qué pokémon inicial elegirías?",
+    "description": "Tu forma de ser revela tu elemento natural.",
+    "questions": [
+        {"text":"En verano, ¿qué prefieres?", "options":[{"text":"Ir a la piscina/playa","score":5},{"text":"Estar bajo el sol","score":10},{"text":"Un picnic a la sombra","score":2},{"text":"Estar en casa con aire","score":8}]},
+        {"text":"Tu reacción ante un problema:", "options":[{"text":"Me adapto como el agua","score":5},{"text":"Me quemo de rabia","score":10},{"text":"Mantengo los pies en la tierra","score":2},{"text":"Me quedo paralizado","score":8}]},
+        {"text":"¿Cuál es tu color favorito?", "options":[{"text":"Azul","score":5},{"text":"Rojo","score":10},{"text":"Verde","score":2},{"text":"Amarillo","score":15}]},
+        {"text":"¿Qué superpoder prefieres?", "options":[{"text":"Controlar el clima","score":5},{"text":"Lanzar fuego","score":10},{"text":"Hacer crecer las plantas","score":2},{"text":"Velocidad del rayo","score":15}]},
+        {"text":"¿Cómo eres en un grupo?", "options":[{"text":"El que fluye con todos","score":5},{"text":"El líder apasionado","score":10},{"text":"El tranquilo y estable","score":2},{"text":"El inquieto","score":15}]},
+        {"text":"Tu animal favorito (de estos):", "options":[{"text":"Tortuga","score":5},{"text":"Lagarto","score":10},{"text":"Sapo","score":2},{"text":"Ratón","score":15}]},
+        {"text":"¿Qué prefieres comer?", "options":[{"text":"Pescado/Sushi","score":5},{"text":"Algo muy picante","score":10},{"text":"Ensalada o fruta","score":2},{"text":"Dulces con mucha energía","score":15}]},
+        {"text":"¿Cuál es tu mayor virtud?", "options":[{"text":"La calma","score":5},{"text":"La fuerza de voluntad","score":10},{"text":"La paciencia","score":2},{"text":"La rapidez","score":15}]},
+        {"text":"¿Qué prefieres hacer un domingo?", "options":[{"text":"Nadar","score":5},{"text":"Hacer una barbacoa","score":10},{"text":"Ir a la montaña","score":2},{"text":"Jugar a la consola","score":15}]},
+        {"text":"¿Te consideras una persona sociable?", "options":[{"text":"A ratos","score":5},{"text":"Mucho, soy el alma","score":10},{"text":"No, prefiero mi espacio","score":2},{"text":"Solo con mis amigos íntimos","score":15}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Tipo Planta (Bulbasaur) 🌿 - Eres tranquilo, leal y muy estable."},
+        {"minScore":36,"maxScore":75,"text":"Tipo Agua (Squirtle) 💧 - Te adaptas a todo y tienes una mente clara."},
+        {"minScore":76,"maxScore":115,"text":"Tipo Fuego (Charmander) 🔥 - Eres apasionado, decidido y un poco impulsivo."},
+        {"minScore":116,"maxScore":150,"text":"Tipo Eléctrico (Pikachu) ⚡ - Eres pura energía y siempre vas a mil."}
+    ]
+  },
+  {
+    "id": 40,
+    "category": "gaming",
+    "title": "¿Cuánto sabes de Fortnite?",
+    "description": "Solo para los que han ganado más de una Victory Royale.",
+    "questions": [
+        {"text":"¿Cuál es el nombre del modo principal?", "options":[{"text":"Battle Royale","score":10},{"text":"Save the World","score":5},{"text":"Creative","score":2},{"text":"Arena","score":5}]},
+        {"text":"¿Qué material es el más fuerte?", "options":[{"text":"Madera","score":0},{"text":"Ladrillo","score":5},{"text":"Metal","score":10},{"text":"Diamante","score":0}]},
+        {"text":"¿Cómo se llama el bus de inicio?", "options":[{"text":"Battle Bus","score":10},{"text":"Party Bus","score":2},{"text":"Sky Bus","score":0},{"text":"Magic Bus","score":0}]},
+        {"text":"¿Qué objeto te permite curarte al 100% de escudo y vida?", "options":[{"text":"Sorbete","score":5},{"text":"Chug Jug (Bidón)","score":10},{"text":"Venda","score":0},{"text":"Botiquín","score":2}]},
+        {"text":"¿Cómo se llama la moneda del juego?", "options":[{"text":"V-Bucks (PaVos)","score":10},{"text":"Skins","score":0},{"text":"Fortcoins","score":2},{"text":"Gold","score":5}]},
+        {"text":"¿En qué año salió el Battle Royale?", "options":[{"text":"2017","score":10},{"text":"2018","score":5},{"text":"2016","score":0},{"text":"2019","score":0}]},
+        {"text":"¿Cuál es la skin más 'default'?", "options":[{"text":"Jonesy","score":10},{"text":"Peely","score":5},{"text":"Midas","score":2},{"text":"Renegade","score":8}]},
+        {"text":"¿Cómo se llama el lugar donde siempre cae gente?", "options":[{"text":"Pisos Picados","score":10},{"text":"Parque Placentero","score":5},{"text":"Balsa Botín","score":5},{"text":"Ciudad Comercio","score":5}]},
+        {"text":"¿Qué baile es el más famoso?", "options":[{"text":"Floss","score":10},{"text":"Take the L","score":8},{"text":"Dab","score":5},{"text":"Orange Justice","score":10}]},
+        {"text":"¿Cuántos jugadores hay por partida?", "options":[{"text":"100","score":10},{"text":"50","score":0},{"text":"150","score":0},{"text":"80","score":0}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":40,"text":"Bambis 🦌 - Acabas de aterrizar. ¡Sigue practicando tu construcción!"},
+        {"minScore":41,"maxScore":80,"text":"Jugador de Temporada 🎒 - Sabes defenderte y conoces el mapa perfectamente."},
+        {"minScore":81,"maxScore":100,"text":"OG Master 👑 - ¡Eres una leyenda! Esa Victory Royale tiene tu nombre."}
+    ]
+  },
+  {
+    "id": 41,
+    "category": "gaming",
+    "title": "¿Qué consola de videojuegos eres?",
+    "description": "Tu personalidad encaja con un hardware específico.",
+    "questions": [
+        {"text":"¿Qué prefieres hacer un viernes?", "options":[{"text":"Jugar con mi familia","score":5},{"text":"Jugar online competitivo","score":10},{"text":"Una experiencia cinemática","score":8},{"text":"Jugar a clásicos","score":2}]},
+        {"text":"¿Cómo es tu diseño ideal?", "options":[{"text":"Pequeño y portátil","score":5},{"text":"Una torre potente","score":10},{"text":"Elegante y blanco","score":8},{"text":"Retro y nostálgico","score":2}]},
+        {"text":"¿Qué saga prefieres?", "options":[{"text":"Mario/Zelda","score":5},{"text":"Halo/Gears","score":10},{"text":"God of War/Spider-Man","score":8},{"text":"Cualquiera de PC","score":12}]},
+        {"text":"¿Cuánto te importa la potencia gráfica?", "options":[{"text":"Me da igual si es divertido","score":2},{"text":"Lo máximo posible, 4K","score":10},{"text":"Que se vea muy artístico","score":8},{"text":"Prefiero los píxeles","score":5}]},
+        {"text":"¿Dónde sueles jugar?", "options":[{"text":"En el bus o avión","score":5},{"text":"En mi escritorio 'setup'","score":10},{"text":"En el sofá del salón","score":8},{"text":"En cualquier sitio con una pantalla vieja","score":2}]},
+        {"text":"¿Qué opinas de las suscripciones?", "options":[{"text":"Amo el Game Pass","score":10},{"text":"Prefiero comprar juegos físicos","score":8},{"text":"No me gustan","score":2},{"text":"Solo pago lo justo","score":5}]},
+        {"text":"Tu mando ideal tiene:", "options":[{"text":"Pantalla táctil","score":5},{"text":"Gatillos con mucha resistencia","score":8},{"text":"Muchos botones laterales","score":12},{"text":"Pocos botones, estilo clásico","score":2}]},
+        {"text":"¿Eres fiel a una marca?", "options":[{"text":"Sí, desde niño","score":10},{"text":"No, voy donde estén los juegos","score":5},{"text":"Solo me importa el rendimiento","score":8},{"text":"Prefiero lo abierto y libre","score":12}]},
+        {"text":"¿Qué buscas en un juego?", "options":[{"text":"Innovación y magia","score":5},{"text":"Poder y competición","score":10},{"text":"Historia y emociones","score":8},{"text":"Libertad total","score":12}]},
+        {"text":"¿Cuál fue tu primera consola?", "options":[{"text":"GameBoy/DS","score":5},{"text":"Xbox","score":10},{"text":"PlayStation","score":8},{"text":"Atari/NES","score":2}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Nintendo Switch 🍄 - Eres creativo, divertido y te encanta compartir."},
+        {"minScore":36,"maxScore":70,"text":"PlayStation 5 🟦 - Te gusta la calidad, las buenas historias y el estilo."},
+        {"minScore":71,"maxScore":100,"text":"Xbox / PC Master Race 🚀 - Buscas la potencia máxima y la mejor comunidad online."}
+    ]
+  },
+  {
+    "id": 42,
+    "category": "gaming",
+    "title": "¿Sobrevivirías en el mundo de GTA?",
+    "description": "Los Santos es una ciudad peligrosa. ¿Cuánto durarías?",
+    "questions": [
+        {"text":"Ves un coche deportivo de lujo aparcado:", "options":[{"text":"Lo ignoro","score":2},{"text":"Me subo y me lo llevo","score":10},{"text":"Le hago una foto","score":5},{"text":"Llamo a la policía","score":0}]},
+        {"text":"¿Cómo reaccionas si alguien te insulta?", "options":[{"text":"Saco un lanzacohetes","score":12},{"text":"Le devuelvo el insulto","score":8},{"text":"Sigo caminando","score":2},{"text":"Llamo a mi banda","score":10}]},
+        {"text":"¿Dónde comprarías tu ropa?", "options":[{"text":"Binco (barato)","score":5},{"text":"Ponsonbys (lujo)","score":10},{"text":"Suburban (estilo)","score":8},{"text":"Me da igual la ropa","score":2}]},
+        {"text":"Tienes 3 estrellas de policía:", "options":[{"text":"Me entrego","score":0},{"text":"Me escondo bajo un puente","score":8},{"text":"Voy al taller de pintura","score":10},{"text":"Empiezo una persecución épica","score":12}]},
+        {"text":"¿Cuál es tu personaje favorito?", "options":[{"text":"Franklin","score":8},{"text":"Michael","score":5},{"text":"Trevor","score":15},{"text":"CJ","score":10}]},
+        {"text":"¿Sabes volar un helicóptero?", "options":[{"text":"Sí, soy experto","score":10},{"text":"Siempre acabo estrellándome","score":5},{"text":"Nunca lo he intentado","score":2},{"text":"Prefiero los aviones","score":8}]},
+        {"text":"¿Qué harías con un millón de dólares?", "options":[{"text":"Comprar un búnker","score":10},{"text":"Tunear mis coches","score":8},{"text":"Invertir en bolsa","score":5},{"text":"Comprar armas de lujo","score":12}]},
+        {"text":"¿Cuál es tu emisora favorita?", "options":[{"text":"Radio Los Santos","score":10},{"text":"Non-Stop-Pop","score":5},{"text":"West Coast Classics","score":8},{"text":"Prefiero el silencio","score":0}]},
+        {"text":"Si un semáforo está en rojo:", "options":[{"text":"Me lo salto a 200km/h","score":10},{"text":"Freno un poco","score":5},{"text":"Respeto la norma","score":2},{"text":"Paso por la acera","score":12}]},
+        {"text":"¿Qué harías en el casino?", "options":[{"text":"Apostarlo todo","score":12},{"text":"Jugar un poco","score":5},{"text":"Ir a ver el coche del podio","score":8},{"text":"No entro","score":2}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Ciudadano Inocente 🚶 - No durarías ni 5 minutos en un servidor público. ¡Vuelve al modo historia!"},
+        {"minScore":36,"maxScore":75,"text":"Gánster de barrio 🔫 - Te sabes mover, pero todavía te falta malicia para ser el jefe."},
+        {"minScore":76,"maxScore":130,"text":"Rey de Los Santos 👑 - Tienes el búnker, el yate y el respeto. La ciudad es tuya."}
+    ]
+  },
+  {
+    "id": 43,
+    "category": "gaming",
+    "title": "¿Cuál es tu rol en Among Us?",
+    "description": "Shhh... Hay alguien sospechoso aquí.",
+    "questions": [
+        {"text":"Empieza la partida, ¿qué haces?", "options":[{"text":"Voy directo a hacer tareas","score":2},{"text":"Me quedo vigilando las cámaras","score":5},{"text":"Sigo a alguien para ver qué hace","score":8},{"text":"Saboteo la luz de inmediato","score":10}]},
+        {"text":"Ves un cuerpo reportado:", "options":[{"text":"Digo dónde estaba enseguida","score":2},{"text":"Espero a que hablen los demás","score":8},{"text":"Acuso al primero que pille","score":12},{"text":"Digo que no he visto nada","score":10}]},
+        {"text":"¿Cómo mientes?", "options":[{"text":"No sé mentir, me río","score":0},{"text":"Doy una coartada perfecta","score":10},{"text":"Digo 'yo no fui' muchas veces","score":5},{"text":"Uso la lógica contra otros","score":8}]},
+        {"text":"¿Qué color sueles elegir?", "options":[{"text":"Rojo (siempre sospechoso)","score":12},{"text":"Blanco o Cian (parecen inocentes)","score":5},{"text":"Verde o Marrón (pasan desapercibidos)","score":8},{"text":"Cualquiera con un gorro raro","score":10}]},
+        {"text":"Como tripulante, tu prioridad es:", "options":[{"text":"Terminar todas las tareas","score":2},{"text":"Descubrir al impostor","score":10},{"text":"Sobrevivir a toda costa","score":5},{"text":"Hacer reuniones innecesarias","score":12}]},
+        {"text":"Como impostor, prefieres matar en:", "options":[{"text":"Electricidad","score":10},{"text":"Navegación","score":5},{"text":"Seguridad","score":12},{"text":"En frente de todos para trolear","score":15}]},
+        {"text":"Alguien te acusa sin pruebas:", "options":[{"text":"Le acuso a él de vuelta","score":12},{"text":"Me defiendo con calma","score":5},{"text":"Digo que es un 'self-report'","score":10},{"text":"Me quedo callado","score":8}]},
+        {"text":"¿Usas las alcantarillas (vents)?", "options":[{"text":"Todo el tiempo","score":10},{"text":"Solo cuando nadie mira","score":8},{"text":"Me da miedo que me pillen","score":5},{"text":"¿Qué es eso?","score":0}]},
+        {"text":"¿Qué tarea odias más?", "options":[{"text":"La de pasar la tarjeta","score":8},{"text":"Cargar datos","score":5},{"text":"Cualquiera que tarde mucho","score":10},{"text":"Me gustan todas","score":2}]},
+        {"text":"¿Votas a alguien sin estar seguro?", "options":[{"text":"Sí, si todos votan","score":10},{"text":"Nunca, prefiero pasar","score":2},{"text":"Solo si es sospechoso","score":5},{"text":"Si me cae mal, sí","score":12}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Tripulante Ejemplar 👷 - Haces tus tareas y confías en la gente. ¡Eres un ángel!"},
+        {"minScore":36,"maxScore":75,"text":"Detective Privado 🕵️ - No se te escapa ni un movimiento en las cámaras."},
+        {"minScore":76,"maxScore":125,"text":"Impostor Maestro 🔪 - Mientes tan bien que hasta tú te crees tu propia historia. ¡Sospechoso!"}
+    ]
+  },
+  {
+    "id": 44,
+    "category": "gaming",
+    "title": "¿Qué jefe de Elden Ring serías?",
+    "description": "Tu dificultad y estilo definidos por las Tierras Intermedias.",
+    "questions": [
+        {"text":"Tu frase antes de una pelea sería:", "options":[{"text":"'Soy la espada de...'","score":10},{"text":"'Únete a la familia'","score":8},{"text":"'Poned fin a vuestra ambición'","score":5},{"text":"Un grito épico","score":2}]},
+        {"text":"¿Cuántas fases tiene tu pelea?", "options":[{"text":"Una, pero muy intensa","score":2},{"text":"Dos, cambio de forma","score":8},{"text":"Tres, soy imposible","score":12},{"text":"Infinitas, me curo","score":15}]},
+        {"text":"Tu mayor poder es:", "options":[{"text":"La velocidad extrema","score":10},{"text":"La magia de estrellas","score":8},{"text":"La fuerza bruta","score":5},{"text":"La putrefacción","score":12}]},
+        {"text":"¿Dónde está tu arena de combate?", "options":[{"text":"En un árbol sagrado","score":10},{"text":"En un desierto gigante","score":5},{"text":"En una academia mágica","score":8},{"text":"En un volcán","score":12}]},
+        {"text":"¿Qué haces si el jugador usa invocaciones?", "options":[{"text":"Me da igual, los mato a todos","score":10},{"text":"Me enfado y ataco más rápido","score":8},{"text":"Me parece justo","score":2},{"text":"Yo también invoco algo","score":12}]},
+        {"text":"Tu diseño físico:", "options":[{"text":"Elegante y humanoide","score":10},{"text":"Gigantesco y monstruoso","score":5},{"text":"Una armadura imponente","score":8},{"text":"Algo que no se puede describir","score":12}]},
+        {"text":"¿Cuál es tu arma?", "options":[{"text":"Una katana dorada","score":10},{"text":"Dos espadones gigantes","score":8},{"text":"Un cetro mágico","score":5},{"text":"Mis propias manos","score":12}]},
+        {"text":"¿Qué porcentaje de jugadores te vencen?", "options":[{"text":"Menos del 10%","score":15},{"text":"Alrededor del 40%","score":8},{"text":"Casi todos","score":2},{"text":"Solo los que hacen trampas","score":12}]},
+        {"text":"¿Tienes música épica?", "options":[{"text":"La más épica del juego","score":10},{"text":"Algo triste y melancólico","score":5},{"text":"Silencio inquietante","score":8},{"text":"Metal extremo","score":12}]},
+        {"text":"¿Eres opcional u obligatorio?", "options":[{"text":"Opcional, solo para valientes","score":10},{"text":"Obligatorio para la historia","score":5},{"text":"Soy un secreto","score":15},{"text":"Aparezco varias veces","score":8}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":45,"text":"Radahn / Godfrey 🦁 - Eres poder puro, honor y fuerza. Una leyenda."},
+        {"minScore":46,"maxScore":85,"text":"Rennala / Rykard 🐍 - Eres misterioso, mágico y un poco inquietante."},
+        {"minScore":86,"maxScore":130,"text":"Malenia, la Espada de Miquella 🌸 - Eres la definición de dificultad. Implacable y perfecta."}
+    ]
+  },
+  {
+    "id": 45,
+    "category": "gaming",
+    "title": "¿Qué streamer de Twitch eres?",
+    "description": "Tu forma de comunicar define tu canal.",
+    "questions": [
+        {"text":"¿Cómo saludas a tu chat?", "options":[{"text":"¡Muy buenas a todos!","score":5},{"text":"¿Qué pasa chavales?","score":10},{"text":"Hola (con cara de sueño)","score":2},{"text":"Gritando algo sin sentido","score":12}]},
+        {"text":"¿Qué tipo de contenido haces?", "options":[{"text":"Just Chatting (hablar)","score":10},{"text":"Juegos competitivos","score":5},{"text":"Eventos masivos","score":12},{"text":"Juegos raros/indies","score":8}]},
+        {"text":"¿Cómo reaccionas a una donación grande?", "options":[{"text":"Doy las gracias humildemente","score":5},{"text":"Me vuelvo loco y salto","score":12},{"text":"Hago una broma","score":10},{"text":"Sigo jugando","score":2}]},
+        {"text":"Tu setup tiene:", "options":[{"text":"Mucho RGB y luces","score":10},{"text":"Es una habitación normal","score":2},{"text":"Fondo verde (croma)","score":8},{"text":"Está todo desordenado","score":12}]},
+        {"text":"¿Cuántas horas haces de directo?", "options":[{"text":"2 o 3 horas","score":2},{"text":"6 horas diarias","score":8},{"text":"Hago directos de 24h","score":12},{"text":"Cuando me apetece","score":5}]},
+        {"text":"¿Tienes un 'meme' propio?", "options":[{"text":"Tengo cientos","score":12},{"text":"Tengo un par famosos","score":10},{"text":"No, soy serio","score":2},{"text":"Mi cara es un meme","score":8}]},
+        {"text":"¿Cómo vistes en directo?", "options":[{"text":"Sudadera o camiseta cómoda","score":10},{"text":"Camisa o bien arreglado","score":2},{"text":"Disfrazado a veces","score":12},{"text":"Como me he levantado","score":5}]},
+        {"text":"¿Te enfadas jugando (Rage)?", "options":[{"text":"Rompo el teclado","score":15},{"text":"Digo un par de insultos","score":10},{"text":"Me río del fallo","score":2},{"text":"Respiro hondo","score":5}]},
+        {"text":"¿Cuál es tu plataforma?", "options":[{"text":"Twitch (siempre)","score":10},{"text":"YouTube Live","score":5},{"text":"Kick","score":12},{"text":"TikTok Live","score":8}]},
+        {"text":"¿Apareces en las noticias?", "options":[{"text":"Por mis eventos benéficos","score":5},{"text":"Por alguna polémica","score":12},{"text":"No, soy discreto","score":2},{"text":"Por ganar un premio","score":10}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":40,"text":"Streamer Chill ☕ - Eres tranquilo, hablas con tu comunidad y no buscas líos."},
+        {"minScore":41,"maxScore":80,"text":"Streamer de Éxito 📈 - Tienes carisma, constancia y sabes lo que quiere el público."},
+        {"minScore":81,"maxScore":125,"text":"Rey del Entretenimiento 👑 - Tus directos son eventos mundiales. ¡Eres una estrella!"}
+    ]
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": 16,
+    "category": "cine",
+    "title": "¿A qué casa de Hogwarts perteneces?",
+    "description": "El Sombrero Seleccionador ha hablado. ¿Gryffindor, Slytherin, Ravenclaw o Hufflepuff?",
+    "questions": [
+      {"text":"Tu mayor cualidad es:", "options":[{"text":"El valor","score":10},{"text":"La ambición","score":8},{"text":"La inteligencia","score":5},{"text":"La lealtad","score":2}]},
+      {"text":"¿Qué harías si ves a alguien haciendo trampa?", "options":[{"text":"Lo enfrento","score":10},{"text":"Lo ignoro si no me afecta","score":8},{"text":"Lo analizo","score":5},{"text":"Le pido que pare por favor","score":2}]},
+      {"text":"Tu clase favorita sería:", "options":[{"text":"Defensa contra las artes oscuras","score":10},{"text":"Pociones","score":8},{"text":"Astronomía","score":5},{"text":"Herbología","score":2}]},
+      {"text":"¿Qué animal llevarías al colegio?", "options":[{"text":"Lechuza","score":5},{"text":"Gato","score":8},{"text":"Sapo","score":2},{"text":"Rata","score":10}]},
+      {"text":"Elige un color:", "options":[{"text":"Rojo","score":10},{"text":"Verde","score":8},{"text":"Azul","score":5},{"text":"Amarillo","score":2}]},
+      {"text":"Tu mayor miedo:", "options":[{"text":"Ser un cobarde","score":10},{"text":"Ser un fracasado","score":8},{"text":"Ser ignorante","score":5},{"text":"Estar solo","score":2}]},
+      {"text":"Si encuentras un monedero tirado...", "options":[{"text":"Busco al dueño","score":2},{"text":"Lo dejo donde está","score":5},{"text":"Me lo quedo","score":8},{"text":"Busco una recompensa","score":10}]},
+      {"text":"¿Qué tipo de hechizo prefieres?", "options":[{"text":"De ataque","score":10},{"text":"De transformación","score":8},{"text":"De sabiduría","score":5},{"text":"De curación","score":2}]},
+      {"text":"Tu lugar favorito del castillo:", "options":[{"text":"La torre más alta","score":5},{"text":"Las mazmorras","score":8},{"text":"La biblioteca","score":10},{"text":"Cerca de la chimenea","score":2}]},
+      {"text":"¿Cómo quieres ser recordado?", "options":[{"text":"Como un héroe","score":10},{"text":"Como alguien poderoso","score":8},{"text":"Como un sabio","score":5},{"text":"Como un buen amigo","score":2}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":25,"text":"Hufflepuff 🦡 - Eres justo, leal y un trabajador incansable."},
+      {"minScore":26,"maxScore":55,"text":"Ravenclaw 🦅 - Tu mente es brillante y valoras el conocimiento por encima de todo."},
+      {"minScore":56,"maxScore":80,"text":"Slytherin 🐍 - Eres astuto y harás lo necesario para alcanzar tus metas."},
+      {"minScore":81,"maxScore":110,"text":"Gryffindor 🦁 - Eres valiente y tu corazón siempre guía tus pasos."}
+    ]
+  },
+  {
+    "id": 17,
+    "category": "cine",
+    "title": "¿Qué Vengador (Avenger) eres?",
+    "description": "El mundo necesita héroes. ¿Cuál de ellos vive en ti?",
+    "questions": [
+      {"text":"Elige tu estilo de combate:", "options":[{"text":"Cuerpo a cuerpo","score":10},{"text":"Tecnología avanzada","score":8},{"text":"Poderes mágicos","score":5},{"text":"Estrategia y sigilo","score":2}]},
+      {"text":"¿Qué valoras más en un equipo?", "options":[{"text":"La disciplina","score":10},{"text":"El ingenio","score":8},{"text":"La fuerza bruta","score":5},{"text":"La confianza","score":2}]},
+      {"text":"Tu debilidad secreta:", "options":[{"text":"Mi pasado","score":2},{"text":"Mi ego","score":8},{"text":"Mi temperamento","score":10},{"text":"Mis sentimientos","score":5}]},
+      {"text":"Si pudieras viajar en el tiempo, ¿qué harías?", "options":[{"text":"Arreglar mis errores","score":2},{"text":"Aprender tecnología","score":8},{"text":"No tocaría nada","score":10},{"text":"Visitaría a mi familia","score":5}]},
+      {"text":"Tu lugar de residencia ideal:", "options":[{"text":"Una torre de cristal","score":8},{"text":"Un cuartel secreto","score":2},{"text":"Una cabaña en el campo","score":5},{"text":"Un reino mágico","score":10}]},
+      {"text":"¿Eres un líder o un seguidor?", "options":[{"text":"Líder absoluto","score":10},{"text":"Líder rebelde","score":8},{"text":"Sigo el plan si es bueno","score":5},{"text":"Prefiero ir por libre","score":2}]},
+      {"text":"¿Perdonarías a un enemigo?", "options":[{"text":"Nunca","score":10},{"text":"Si se arrepiente","score":5},{"text":"A veces","score":2},{"text":"Solo si es útil","score":8}]},
+      {"text":"Tu medio de transporte:", "options":[{"text":"Volar","score":8},{"text":"Moto","score":2},{"text":"Nave espacial","score":10},{"text":"Caminando","score":5}]},
+      {"text":"¿Qué te motiva?", "options":[{"text":"El deber","score":10},{"text":"La culpa","score":2},{"text":"La curiosidad","score":5},{"text":"El honor","score":8}]},
+      {"text":"¿Cómo celebras la victoria?", "options":[{"text":"Con una fiesta","score":8},{"text":"Entrenando más","score":10},{"text":"Descansando","score":2},{"text":"Comiendo Shawarma","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":30,"text":"Capitán América / Viuda Negra 🛡️ - Eres disciplinado, leal y un estratega nato."},
+      {"minScore":31,"maxScore":65,"text":"Doctor Strange / Thor ⚡ - Tienes un poder inmenso y una visión superior."},
+      {"minScore":66,"maxScore":110,"text":"Iron Man / Hulk 🦾 - Eres brillante, intenso y un poco caótico."}
+    ]
+  },
+  {
+    "id": 18,
+    "category": "cine",
+    "title": "¿Cuánto durarías en una película de terror?",
+    "description": "No abras esa puerta... ¿Serás el 'Final Girl' o el primero en morir?",
+    "questions": [
+      {"text":"Escuchas un ruido en el sótano:", "options":[{"text":"Voy a mirar con una linterna","score":10},{"text":"Salgo corriendo de la casa","score":2},{"text":"Llamo a la policía","score":5},{"text":"Grito: '¿Hay alguien ahí?'","score":8}]},
+      {"text":"¿A dónde vas si te persiguen?", "options":[{"text":"Al desván","score":10},{"text":"Al bosque","score":8},{"text":"A la calle iluminada","score":2},{"text":"Debajo de la cama","score":5}]},
+      {"text":"Tu coche se queda sin gasolina en mitad de la nada:", "options":[{"text":"Me quedo dentro encerrado","score":5},{"text":"Camino hacia la casa vieja que vi","score":10},{"text":"Intento arreglarlo yo mismo","score":8},{"text":"Espero a que pase alguien","score":2}]},
+      {"text":"¿Cuál es tu arma de defensa?", "options":[{"text":"Un cuchillo de cocina","score":8},{"text":"Un spray de pimienta","score":2},{"text":"Un bate","score":5},{"text":"Mis piernas para correr","score":1}]},
+      {"text":"Tu amigo tropieza mientras corren:", "options":[{"text":"Lo ayudo a levantarse","score":2},{"text":"Sigo corriendo, sálvese quien pueda","score":10},{"text":"Me quedo a pelear","score":8},{"text":"Grito de terror","score":5}]},
+      {"text":"¿Crees en los fantasmas?", "options":[{"text":"Totalmente","score":8},{"text":"Soy escéptico","score":2},{"text":"Prefiero no saberlo","score":5},{"text":"Solo si los veo","score":10}]},
+      {"text":"El asesino te tiene acorralado:", "options":[{"text":"Le ruego por mi vida","score":10},{"text":"Le lanzo lo primero que pille","score":5},{"text":"Busco una salida secreta","score":2},{"text":"Me escondo y rezo","score":8}]},
+      {"text":"¿Ves películas de miedo?", "options":[{"text":"Me encantan","score":2},{"text":"Las odio","score":10},{"text":"Acompañado sí","score":5},{"text":"Solo si son psicológicas","score":8}]},
+      {"text":"¿Eres el gracioso del grupo?", "options":[{"text":"Sí","score":10},{"text":"No, soy el serio","score":2},{"text":"Soy el miedica","score":8},{"text":"Soy el valiente","score":5}]},
+      {"text":"El teléfono suena y una voz extraña habla:", "options":[{"text":"Cuelgo de inmediato","score":2},{"text":"Sigo la corriente","score":10},{"text":"Insulto a la persona","score":8},{"text":"Me quedo callado escuchando","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":30,"text":"Sobreviviente Final 🏆 - Tienes sentido común. Eres el que llega a los créditos finales."},
+      {"minScore":31,"maxScore":70,"text":"Personaje Secundario 💀 - Duraste bastante, pero un error tonto te costó la vida."},
+      {"minScore":71,"maxScore":110,"text":"Primera Víctima 🔪 - Moriste antes de que apareciera el título de la peli. ¡Mala suerte!"}
+    ]
+  },
+  {
+    "id": 19,
+    "category": "cine",
+    "title": "¿Qué personaje de Disney serías en la vida real?",
+    "description": "Olvídate de los castillos, ¿cómo serías en el siglo XXI?",
+    "questions": [
+      {"text":"Tu hobby favorito:", "options":[{"text":"Leer","score":5},{"text":"Explorar sitios nuevos","score":10},{"text":"Cantar/Música","score":2},{"text":"Hacer deporte","score":8}]},
+      {"text":"¿Qué animal te acompañaría?", "options":[{"text":"Un perro fiel","score":2},{"text":"Un pájaro exótico","score":10},{"text":"Un gato independiente","score":8},{"text":"Un mapache travieso","score":5}]},
+      {"text":"Tu mayor deseo es:", "options":[{"text":"Encontrar el amor","score":2},{"text":"Tener aventuras","score":10},{"text":"Ser libre","score":8},{"text":"Tener éxito","score":5}]},
+      {"text":"¿Cómo describirías tu estilo?", "options":[{"text":"Clásico y elegante","score":2},{"text":"Cómodo y práctico","score":10},{"text":"Llamativo y colorido","score":8},{"text":"Hípster/Moderno","score":5}]},
+      {"text":"¿Te gustan las fiestas?", "options":[{"text":"Si hay comida sí","score":5},{"text":"Prefiero una cena tranquila","score":2},{"text":"Soy el centro de atención","score":10},{"text":"No mucho","score":8}]},
+      {"text":"¿Cuál es tu estación favorita?", "options":[{"text":"Verano","score":10},{"text":"Invierno","score":2},{"text":"Primavera","score":5},{"text":"Otoño","score":8}]},
+      {"text":"¿Qué harías si ves una injusticia?", "options":[{"text":"Peleo contra ella","score":10},{"text":"Trato de mediar","score":5},{"text":"Busco ayuda","score":2},{"text":"Me indigno pero no sé qué hacer","score":8}]},
+      {"text":"¿Te consideras soñador?", "options":[{"text":"Vivo en las nubes","score":10},{"text":"Soy muy realista","score":2},{"text":"Un poco de ambos","score":5},{"text":"Solo cuando duermo","score":8}]},
+      {"text":"Tu comida preferida:", "options":[{"text":"Pasta o pizza","score":5},{"text":"Manzanas (sin veneno)","score":2},{"text":"Marisco","score":10},{"text":"Cosas exóticas","score":8}]},
+      {"text":"¿Cómo reaccionas ante un reto?", "options":[{"text":"Con optimismo","score":10},{"text":"Con miedo pero voy","score":5},{"text":"Lo analizo mil veces","score":8},{"text":"Lo evito","score":2}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Bella / Cenicienta 🌹 - Eres bondadoso, inteligente y crees en la magia del día a día."},
+      {"minScore":36,"maxScore":75,"text":"Mulan / Simba 🦁 - Tienes un coraje inmenso y buscas tu lugar en el mundo."},
+      {"minScore":76,"maxScore":110,"text":"Ariel / Aladdin 🧞 - Amas la libertad y no te detendrás hasta ver qué hay más allá."}
+    ]
+  },
+  {
+    "id": 20,
+    "category": "cine",
+    "title": "¿Eres un experto en Los Simpson?",
+    "description": "Solo para verdaderos habitantes de Springfield.",
+    "questions": [
+      {"text":"¿Cuál es la bebida favorita de Homer?", "options":[{"text":"Cerveza Duff","score":10},{"text":"Buzz Cola","score":2},{"text":"Zumo de naranja","score":0},{"text":"Agua mineral","score":0}]},
+      {"text":"¿Cómo se llama el barbero de la ciudad?", "options":[{"text":"Barney","score":0},{"text":"Jake","score":10},{"text":"Moe","score":2},{"text":"Apu","score":0}]},
+      {"text":"¿De qué color es el coche de los Simpson?", "options":[{"text":"Rosa","score":10},{"text":"Azul","score":2},{"text":"Rojo","score":0},{"text":"Verde","score":0}]},
+      {"text":"¿Dónde trabaja Homer?", "options":[{"text":"En una fábrica de donuts","score":2},{"text":"En la central nuclear","score":10},{"text":"En la bolera","score":5},{"text":"Es desempleado","score":0}]},
+      {"text":"¿Qué instrumento toca Lisa?", "options":[{"text":"Trombón","score":0},{"text":"Saxofón","score":10},{"text":"Violín","score":2},{"text":"Guitarra","score":0}]},
+      {"text":"¿Cómo se llama el vecino que Homer odia?", "options":[{"text":"Ned Flanders","score":10},{"text":"Seymour Skinner","score":2},{"text":"Milhouse","score":0},{"text":"Lenny","score":0}]},
+      {"text":"¿Cuál es la frase de Bart?", "options":[{"text":"¡Mosquis!","score":2},{"text":"¡Multiplícate por cero!","score":10},{"text":"¡D'oh!","score":5},{"text":"Excelente...","score":0}]},
+      {"text":"¿Cómo se llama el payaso?", "options":[{"text":"Krusty","score":10},{"text":"Bob","score":2},{"text":"Piti","score":0},{"text":"Gaby","score":0}]},
+      {"text":"¿En qué estado está Springfield?", "options":[{"text":"Kentucky","score":2},{"text":"Es un misterio","score":10},{"text":"Nevada","score":0},{"text":"Texas","score":0}]},
+      {"text":"¿Quién disparó al Sr. Burns?", "options":[{"text":"Maggie","score":10},{"text":"Smithers","score":5},{"text":"Homer","score":2},{"text":"Bart","score":0}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Ralph Wiggum 🖍️ - '¡Estoy participando!'. Necesitas ver más episodios."},
+      {"minScore":41,"maxScore":80,"text":"Homer Simpson 🍩 - Sabes bastante, pero te distraes con los donuts."},
+      {"minScore":81,"maxScore":100,"text":"Lisa Simpson 🎷 - ¡Eres un genio de Springfield! Conoces cada detalle."}
+    ]
+  },
+  {
+    "id": 21,
+    "category": "cine",
+    "title": "¿Sobrevivirías en El Juego del Calamar?",
+    "description": "Luz roja, luz verde... ¿tienes lo necesario para ganar el premio?",
+    "questions": [
+      {"text":"Te ofrecen una tarjeta en el metro:", "options":[{"text":"La acepto por curiosidad","score":8},{"text":"La tiro, parece una estafa","score":2},{"text":"Llamo de inmediato","score":10},{"text":"Se la doy a un amigo","score":5}]},
+      {"text":"Primer juego: Luz roja, luz verde. ¿Qué haces?", "options":[{"text":"Corro como un loco","score":10},{"text":"Me muevo despacio detrás de alguien","score":5},{"text":"Me quedo petrificado del miedo","score":2},{"text":"Mantengo la calma y sigo el ritmo","score":8}]},
+      {"text":"Tienes que elegir una figura de azúcar:", "options":[{"text":"Círculo","score":2},{"text":"Triángulo","score":5},{"text":"Estrella","score":8},{"text":"Paraguas","score":12}]},
+      {"text":"¿En quién confías en el juego?", "options":[{"text":"En nadie","score":10},{"text":"En el más fuerte","score":5},{"text":"En el que parece buena persona","score":2},{"text":"Hago una alianza estratégica","score":8}]},
+      {"text":"Juego de la cuerda, tu equipo es flojo:", "options":[{"text":"Grito para motivar","score":5},{"text":"Doy todo de mí hasta el final","score":8},{"text":"Me rindo","score":2},{"text":"Intento engañar al otro equipo","score":10}]},
+      {"text":"¿Qué harías con el dinero del premio?", "options":[{"text":"Pagar deudas","score":5},{"text":"Vivir como un rey","score":10},{"text":"Ayudar a mi familia","score":2},{"text":"Invertirlo todo","score":8}]},
+      {"text":"En la noche de las peleas en el dormitorio:", "options":[{"text":"Me escondo","score":2},{"text":"Ataco primero","score":10},{"text":"Busco un grupo que me proteja","score":8},{"text":"Trato de calmar los ánimos","score":5}]},
+      {"text":"El juego de las canicas, juegas contra tu mejor amigo:", "options":[{"text":"Lo engaño para ganar","score":10},{"text":"Me sacrifico por él","score":2},{"text":"Jugamos limpio","score":5},{"text":"Intento que ambos sobrevivamos","score":8}]},
+      {"text":"El puente de cristal, ¿qué número eliges?", "options":[{"text":"El 1 (primero)","score":12},{"text":"El del medio","score":8},{"text":"El último","score":2},{"text":"Me da igual","score":5}]},
+      {"text":"¿Eres capaz de matar para ganar?", "options":[{"text":"Sí, es mi vida o la suya","score":10},{"text":"Solo en defensa propia","score":8},{"text":"No podría","score":2},{"text":"No lo sé hasta estar ahí","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":45,"text":"Eliminado 🛑 - Fuiste demasiado bueno o demasiado miedoso para este juego."},
+      {"minScore":46,"maxScore":85,"text":"Jugador Estratega 🧠 - Llegaste lejos, pero la suerte no estuvo de tu lado al final."},
+      {"minScore":86,"maxScore":110,"text":"Ganador del Premio 🏆 - Eres frío, calculador y tienes la voluntad de acero."}
+    ]
+  },
+  {
+    "id": 22,
+    "category": "cine",
+    "title": "¿Qué personaje de Friends eres?",
+    "description": "The One Where You Find Out Who You Are.",
+    "questions": [
+      {"text":"¿Qué haces en tu tiempo libre?", "options":[{"text":"Limpiar y organizar","score":10},{"text":"Comer pizza","score":8},{"text":"Contar chistes malos","score":5},{"text":"Ir de compras","score":2}]},
+      {"text":"Tu frase estrella sería:", "options":[{"text":"'¿Cómo va eso?'","score":8},{"text":"'¡Estábamos de un descanso!'","score":10},{"text":"'Lo sé'","score":5},{"text":"'¡Tengo un plan!'","score":2}]},
+      {"text":"¿Cuál es tu comida favorita?", "options":[{"text":"Sándwich de pavo","score":10},{"text":"Cualquier cosa gratis","score":8},{"text":"Comida tailandesa","score":5},{"text":"Ensalada","score":2}]},
+      {"text":"¿Cómo llevas las relaciones?", "options":[{"text":"Soy un romántico empedernido","score":10},{"text":"Es complicado","score":5},{"text":"Uso el humor para ocultar mi miedo","score":8},{"text":"Soy muy exigente","score":2}]},
+      {"text":"Tu trabajo ideal:", "options":[{"text":"Cualquiera donde sea el jefe","score":10},{"text":"Actor","score":8},{"text":"Paleontólogo","score":5},{"text":"Moda","score":2}]},
+      {"text":"¿Dónde vivirías?", "options":[{"text":"En un piso compartido con mi mejor amigo","score":8},{"text":"En el piso más limpio del edificio","score":10},{"text":"En una casa con gallina y pato","score":5},{"text":"En un ático de lujo","score":2}]},
+      {"text":"¿Eres competitivo?", "options":[{"text":"A muerte, no puedo perder","score":10},{"text":"Solo en los deportes","score":8},{"text":"Nada","score":2},{"text":"Depende del premio","score":5}]},
+      {"text":"¿Qué instrumento tocarías?", "options":[{"text":"La guitarra (mal)","score":5},{"text":"Teclado con sonidos raros","score":10},{"text":"Nada, prefiero bailar","score":8},{"text":"Me gusta la música clásica","score":2}]},
+      {"text":"¿Cuántas veces te has casado?", "options":[{"text":"Tres veces (o más)","score":10},{"text":"Ninguna","score":2},{"text":"Una y para siempre","score":5},{"text":"Estoy en ello","score":8}]},
+      {"text":"¿Cuál es tu mayor fobia?", "options":[{"text":"El desorden","score":10},{"text":"El compromiso","score":5},{"text":"Quedarme sin comida","score":8},{"text":"Los payasos","score":2}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Rachel / Phoebe ☕ - Eres fashion, libre y un poco excéntrica."},
+      {"minScore":36,"maxScore":75,"text":"Chandler / Joey 🍕 - Eres divertido, leal y amas la buena comida."},
+      {"minScore":76,"maxScore":110,"text":"Monica / Ross 🦖 - Eres inteligente, competitivo y un poco maniático del control."}
+    ]
+  },
+  {
+    "id": 23,
+    "category": "cine",
+    "title": "¿A qué película de Pixar pertenece tu vida?",
+    "description": "Tu historia tiene un toque de animación. ¿Cuál es?",
+    "questions": [
+      {"text":"¿Cómo te sientes hoy?", "options":[{"text":"Alegre","score":2},{"text":"Triste","score":5},{"text":"Enfadado","score":10},{"text":"Miedoso","score":8}]},
+      {"text":"Tu objeto más preciado es:", "options":[{"text":"Un juguete antiguo","score":10},{"text":"Un álbum de fotos","score":5},{"text":"Mi coche","score":8},{"text":"Mi guitarra","score":2}]},
+      {"text":"Si pudieras hablar con...", "options":[{"text":"Los animales","score":8},{"text":"Los juguetes","score":10},{"text":"Los monstruos","score":5},{"text":"Los muertos","score":2}]},
+      {"text":"Tu mayor aventura sería:", "options":[{"text":"Viajar a otro planeta","score":5},{"text":"Explorar el océano","score":8},{"text":"Volar en una casa con globos","score":10},{"text":"Cocinar en París","score":2}]},
+      {"text":"¿Qué valoras más?", "options":[{"text":"La familia","score":2},{"text":"La amistad","score":10},{"text":"La superación","score":8},{"text":"La imaginación","score":5}]},
+      {"text":"¿Cuál es tu miedo?", "options":[{"text":"Ser olvidado","score":10},{"text":"Perder a alguien","score":2},{"text":"No cumplir mis sueños","score":8},{"text":"El fracaso","score":5}]},
+      {"text":"¿Cómo reaccionas ante un cambio?", "options":[{"text":"Me adapto rápido","score":8},{"text":"Me asusta un poco","score":5},{"text":"Lo rechazo","score":10},{"text":"Me emociona","score":2}]},
+      {"text":"¿Eres un robot, un animal o un humano?", "options":[{"text":"Humano con gran corazón","score":2},{"text":"Animal aventurero","score":8},{"text":"Robot curioso","score":5},{"text":"Monstruo divertido","score":10}]},
+      {"text":"¿Qué color define tu humor?", "options":[{"text":"Azul","score":5},{"text":"Amarillo","score":2},{"text":"Rojo","score":10},{"text":"Verde","score":8}]},
+      {"text":"Tu lema de vida:", "options":[{"text":"Hasta el infinito y más allá","score":10},{"text":"Sigue nadando","score":8},{"text":"La aventura está ahí fuera","score":5},{"text":"Recuérdame","score":2}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Coco / Inside Out 🧠 - Tu vida es profunda, emocional y llena de recuerdos."},
+      {"minScore":36,"maxScore":75,"text":"Buscando a Nemo / Ratatouille 🧀 - Eres perseverante y luchas por tus sueños."},
+      {"minScore":76,"maxScore":110,"text":"Toy Story / Up 🎈 - Eres un aventurero nato y valoras la amistad eterna."}
+    ]
+  },
+  {
+    "id": 24,
+    "category": "cine",
+    "title": "¿Eres un héroe o un villano de cine?",
+    "description": "La línea entre el bien y el mal es muy delgada.",
+    "questions": [
+      {"text":"Ves a alguien en peligro:", "options":[{"text":"Corro a salvarlo","score":2},{"text":"Pido ayuda","score":5},{"text":"Miro desde lejos","score":8},{"text":"Pienso cómo aprovecharlo","score":10}]},
+      {"text":"¿Qué opinas de las reglas?", "options":[{"text":"Son sagradas","score":2},{"text":"Están para romperse","score":10},{"text":"Solo cumplo las que me gustan","score":8},{"text":"Son necesarias","score":5}]},
+      {"text":"Tu arma favorita sería:", "options":[{"text":"La palabra","score":5},{"text":"Una espada láser","score":2},{"text":"Un plan maestro","score":10},{"text":"La magia oscura","score":8}]},
+      {"text":"¿Perdonarías una traición?", "options":[{"text":"Sí, todos merecen otra oportunidad","score":2},{"text":"No, nunca","score":10},{"text":"Depende de quién sea","score":5},{"text":"Me vengaría primero","score":8}]},
+      {"text":"Tu guarida ideal:", "options":[{"text":"Un castillo luminoso","score":2},{"text":"Un sótano oscuro","score":10},{"text":"Una oficina elegante","score":8},{"text":"Un bosque tranquilo","score":5}]},
+      {"text":"¿Qué buscas en la vida?", "options":[{"text":"Paz y amor","score":2},{"text":"Poder y control","score":10},{"text":"Conocimiento","score":5},{"text":"Reconocimiento","score":8}]},
+      {"text":"Si fueras un animal serías:", "options":[{"text":"León","score":2},{"text":"Serpiente","score":10},{"text":"Lobo","score":8},{"text":"Búho","score":5}]},
+      {"text":"¿Te gusta trabajar en equipo?", "options":[{"text":"Sí, juntos somos más fuertes","score":2},{"text":"Solo si yo mando","score":10},{"text":"Prefiero ir solo","score":8},{"text":"Si es necesario","score":5}]},
+      {"text":"¿Cuál es tu color?", "options":[{"text":"Blanco o Azul","score":2},{"text":"Negro o Rojo","score":10},{"text":"Morado","score":8},{"text":"Verde","score":5}]},
+      {"text":"¿Qué harías con el anillo único?", "options":[{"text":"Destruirlo","score":2},{"text":"Usarlo para gobernar","score":10},{"text":"Esconderme con él","score":8},{"text":"Estudiarlo","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Héroe Legendario 🛡️ - Eres pura luz y bondad. El mundo te necesita."},
+      {"minScore":36,"maxScore":75,"text":"Antihéroe 🕶️ - Tienes tus propias reglas y no eres perfecto, pero haces lo correcto."},
+      {"minScore":76,"maxScore":110,"text":"Villano Maestro 😈 - Tienes un plan para dominar el mundo y nadie podrá detenerte."}
+    ]
+  },
+  {
+    "id": 25,
+    "category": "cine",
+    "title": "¿Sobrevivirías en una película de Star Wars?",
+    "description": "Que la fuerza te acompañe... si puedes.",
+    "questions": [
+      {"text":"Sientes una perturbación en la fuerza:", "options":[{"text":"Mito a mi alrededor alerta","score":10},{"text":"Meditas para entenderla","score":5},{"text":"No siento nada","score":2},{"text":"Saco mi sable de luz","score":8}]},
+      {"text":"Elige tu lado:", "options":[{"text":"Luz","score":2},{"text":"Oscuro","score":10},{"text":"Gris","score":8},{"text":"El que pague más","score":5}]},
+      {"text":"Tu nave favorita:", "options":[{"text":"Halcón Milenario","score":10},{"text":"Caza TIE","score":8},{"text":"X-Wing","score":5},{"text":"Destructor Estelar","score":12}]},
+      {"text":"¿Qué harías si Darth Vader te ofrece unirte a él?", "options":[{"text":"¡Jamás!","score":2},{"text":"Me lo pensaría","score":5},{"text":"Acepto de inmediato","score":10},{"text":"Intento convencerlo de volver al bien","score":8}]},
+      {"text":"Tu planeta ideal:", "options":[{"text":"Tatooine (desierto)","score":8},{"text":"Coruscant (ciudad)","score":10},{"text":"Endor (bosque)","score":5},{"text":"Hoth (hielo)","score":2}]},
+      {"text":"¿Cuál sería tu arma?", "options":[{"text":"Sable de luz","score":10},{"text":"Bláster","score":5},{"text":"La fuerza","score":8},{"text":"Mis puños","score":2}]},
+      {"text":"¿Cómo eres pilotando?", "options":[{"text":"El mejor de la galaxia","score":10},{"text":"Mejor que la media","score":8},{"text":"Solo en emergencias","score":5},{"text":"Mejor voy de pasajero","score":2}]},
+      {"text":"¿Qué piensas de los droides?", "options":[{"text":"Son mis mejores amigos","score":2},{"text":"Son herramientas útiles","score":5},{"text":"No me fío de ellos","score":8},{"text":"Deberían ser destruidos","score":10}]},
+      {"text":"Ves a un Stormtrooper:", "options":[{"text":"Le disparo","score":5},{"text":"Lo esquivo","score":8},{"text":"Me río (sé que no me dará)","score":2},{"text":"Uso un truco mental","score":10}]},
+      {"text":"¿Cuál es tu objetivo?", "options":[{"text":"Traer equilibrio a la galaxia","score":2},{"text":"Gobernar el imperio","score":10},{"text":"Ser el contrabandista más rico","score":8},{"text":"Simplemente vivir en paz","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Ciudadano de la Galaxia 👨‍🌾 - Probablemente vivirías tranquilo en un planeta remoto."},
+      {"minScore":41,"maxScore":80,"text":"Rebelde Valiente / Cazarrecompensas 🚀 - Estás en medio de la acción y sabes cuidarte."},
+      {"minScore":81,"maxScore":120,"text":"Maestro Jedi / Lord Sith ⚔️ - Eres uno de los seres más poderosos de la galaxia."}
+    ]
+  }
+]

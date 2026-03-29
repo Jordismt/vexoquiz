@@ -1,0 +1,232 @@
+[
+  {
+    "id": 26,
+    "category": "supervivencia",
+    "title": "¿Sobrevivirías una semana en la Selva?",
+    "description": "Solo tú, un machete y miles de insectos. ¿Saldrás con vida?",
+    "questions": [
+      {"text":"Encuentras agua estancada, ¿qué haces?", "options":[{"text":"Bebo, tengo mucha sed","score":10},{"text":"La filtro con mi ropa y la hiervo","score":2},{"text":"Busco frutas con agua mejor","score":5},{"text":"Excavo un pozo al lado","score":4}]},
+      {"text":"Es de noche y oyes un rugido cerca:", "options":[{"text":"Subo a un árbol alto","score":2},{"text":"Grito para asustarlo","score":10},{"text":"Me quedo inmóvil en el suelo","score":8},{"text":"Corro en zigzag","score":6}]},
+      {"text":"¿Cómo orientas tu camino sin brújula?", "options":[{"text":"Miro el musgo de los árboles","score":5},{"text":"Sigo el curso de un río","score":2},{"text":"Sigo la posición del sol","score":3},{"text":"Camino en línea recta como sea","score":10}]},
+      {"text":"Tu refugio ideal para la primera noche:", "options":[{"text":"Una cueva oscura","score":10},{"text":"Estructura elevada con ramas","score":2},{"text":"Debajo de un arbusto espeso","score":5},{"text":"No duermo, camino","score":8}]},
+      {"text":"¿Qué insecto comerías si no hay más?", "options":[{"text":"Escarabajos","score":5},{"text":"Larvas de madera","score":2},{"text":"Hormigas rojas","score":8},{"text":"Prefiero ayunar","score":10}]},
+      {"text":"Te muerde una serpiente, ¿qué haces?", "options":[{"text":"Succiono el veneno","score":10},{"text":"Hago un torniquete apretado","score":8},{"text":"Lavo la herida y mantengo la calma","score":2},{"text":"Corro a buscar ayuda","score":9}]},
+      {"text":"¿Cómo haces fuego si todo está húmedo?", "options":[{"text":"Frotando dos piedras","score":5},{"text":"Uso resina de árbol seca","score":2},{"text":"Intento con palos mojados","score":10},{"text":"No hago fuego","score":8}]},
+      {"text":"Ves una tribu desconocida a lo lejos:", "options":[{"text":"Me acerco gritando hola","score":10},{"text":"Observo desde lejos sin que me vean","score":2},{"text":"Huyo en dirección opuesta","score":5},{"text":"Les robo comida","score":12}]},
+      {"text":"¿Cuál es tu mayor prioridad?", "options":[{"text":"Conseguir comida","score":8},{"text":"Encontrar agua potable","score":2},{"text":"Mantener la moral alta","score":5},{"text":"Hacer señales de humo","score":10}]},
+      {"text":"Llevas 3 días sin comer y ves una rana colorida:", "options":[{"text":"Me la como, proteínas gratis","score":10},{"text":"La ignoro, los colores brillantes avisan peligro","score":2},{"text":"Intento lamerla para ver si es alucinógena","score":15},{"text":"La uso como cebo","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Experto Superviviente 🌳 - Bear Grylls estaría orgulloso de ti. Conoces las reglas de la naturaleza."},
+      {"minScore":36,"maxScore":75,"text":"Superviviente con Suerte 🍀 - Saliste vivo, pero con un par de infecciones y muchos sustos."},
+      {"minScore":76,"maxScore":120,"text":"Comida para Tigres 🐯 - Duraste menos que un caramelo en la puerta de un colegio. La selva no es para ti."}
+    ]
+  },
+  {
+    "id": 27,
+    "category": "supervivencia",
+    "title": "¿Podrías ser un espía internacional?",
+    "description": "Misiones secretas, identidades falsas... ¿tienes lo necesario?",
+    "questions": [
+      {"text":"Te pillan entrando en una zona restringida:", "options":[{"text":"Invento una excusa absurda","score":8},{"text":"Me hago el perdido/turista","score":2},{"text":"Noqueo al guardia","score":10},{"text":"Salgo corriendo","score":5}]},
+      {"text":"¿Qué idioma aprenderías primero?", "options":[{"text":"Ruso o Chino","score":2},{"text":"Árabe","score":5},{"text":"Francés","score":8},{"text":"Todos los anteriores","score":10}]},
+      {"text":"Tu gadget favorito:", "options":[{"text":"Reloj con láser","score":10},{"text":"Cámara en un botón","score":2},{"text":"Gafas de visión nocturna","score":5},{"text":"Cianuro por si acaso","score":8}]},
+      {"text":"En una fiesta, ¿dónde te sitúas?", "options":[{"text":"Cerca de la salida, observando","score":2},{"text":"En el centro, siendo el alma de la fiesta","score":8},{"text":"En el bar hablando con el camarero","score":5},{"text":"Escuchando conversaciones ajenas","score":10}]},
+      {"text":"¿Sabes mentir sin pestañear?", "options":[{"text":"Soy un libro abierto","score":10},{"text":"Solo si es necesario","score":5},{"text":"Miento por deporte","score":2},{"text":"Nadie sabe quién soy realmente","score":1}]},
+      {"text":"¿Qué harías si te ofrecen un soborno?", "options":[{"text":"Lo acepto y traiciono a mi agencia","score":10},{"text":"Lo acepto pero informo a mis superiores","score":2},{"text":"Lo rechazo indignado","score":5},{"text":"Uso el dinero para mi misión","score":8}]},
+      {"text":"Tu coche ideal para una persecución:", "options":[{"text":"Un deportivo veloz","score":10},{"text":"Un coche gris común que pase desapercibido","score":2},{"text":"Una moto de trial","score":5},{"text":"Un blindado","score":8}]},
+      {"text":"¿Cómo guardas tus contraseñas?", "options":[{"text":"En mi cabeza","score":2},{"text":"En un papel en mi cartera","score":10},{"text":"En una app encriptada","score":5},{"text":"Son todas la misma","score":8}]},
+      {"text":"Te persiguen por un mercado lleno de gente:", "options":[{"text":"Tiro puestos para bloquear el paso","score":8},{"text":"Me pongo un sombrero y camino despacio","score":2},{"text":"Subo a los tejados","score":10},{"text":"Busco un policía","score":5}]},
+      {"text":"¿Estás dispuesto a no ver a tu familia en años?", "options":[{"text":"Sí, el deber es lo primero","score":2},{"text":"No, los quiero demasiado","score":10},{"text":"Ya no hablo con ellos","score":5},{"text":"Solo si me pagan bien","score":8}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Agente 007 🍸 - Elegante, letal y discreto. El MI6 te busca."},
+      {"minScore":36,"maxScore":70,"text":"Agente de Campo 🕶️ - Haces el trabajo sucio, pero a veces te expones demasiado."},
+      {"minScore":71,"maxScore":110,"text":"Civil Sospechoso 👤 - Te pillarían en la primera frontera. Mejor quédate en la oficina."}
+    ]
+  },
+  {
+    "id": 28,
+    "category": "supervivencia",
+    "title": "¿Eres un líder o un seguidor?",
+    "description": "En una crisis, ¿quién toma el mando?",
+    "questions": [
+      {"text":"Hay un incendio en el edificio:", "options":[{"text":"Grito y corro al ascensor","score":10},{"text":"Indico a todos la salida de emergencia","score":2},{"text":"Sigo al que parece que sabe qué hacer","score":5},{"text":"Me quedo bloqueado","score":8}]},
+      {"text":"En un trabajo en grupo, tú:", "options":[{"text":"Reparto las tareas a los demás","score":2},{"text":"Hago lo que me digan","score":5},{"text":"Propongo ideas pero no mando","score":8},{"text":"Lo hago todo yo solo","score":10}]},
+      {"text":"¿Te gusta dar consejos?", "options":[{"text":"Solo si me los piden","score":5},{"text":"Constantemente, sé lo que es mejor","score":2},{"text":"No me atrevo","score":10},{"text":"Escucho pero no opino","score":8}]},
+      {"text":"Si un jefe te da una orden absurda:", "options":[{"text":"La cumplo sin quejarme","score":5},{"text":"Le explico por qué es absurda","score":2},{"text":"La hago mal a propósito","score":10},{"text":"Busco a otros para quejarnos","score":8}]},
+      {"text":"¿Te sientes cómodo hablando en público?", "options":[{"text":"Me encanta","score":2},{"text":"Me pongo nervioso pero lo hago","score":5},{"text":"Lo odio a muerte","score":10},{"text":"Prefiero escribirlo","score":8}]},
+      {"text":"Tu mayor miedo en el trabajo/estudios:", "options":[{"text":"Fallarle a mi equipo","score":2},{"text":"Que me regañen","score":10},{"text":"No ser el mejor","score":5},{"text":"Tener que tomar una decisión difícil","score":8}]},
+      {"text":"¿Sabes delegar?", "options":[{"text":"Sí, confío en la gente","score":2},{"text":"No, nadie lo hace como yo","score":10},{"text":"Delego solo lo aburrido","score":5},{"text":"No sé cómo pedir ayuda","score":8}]},
+      {"text":"¿Qué valoras más en un líder?", "options":[{"text":"Su carisma","score":8},{"text":"Su capacidad de escucha","score":2},{"text":"Su firmeza","score":5},{"text":"Que no moleste mucho","score":10}]},
+      {"text":"¿Tomas la iniciativa en las citas?", "options":[{"text":"Siempre elijo el sitio","score":2},{"text":"Prefiero que elijan ellos","score":10},{"text":"Lo hablamos entre los dos","score":5},{"text":"Espero a que me inviten","score":8}]},
+      {"text":"¿Eres capaz de admitir un error?", "options":[{"text":"Sí, de inmediato","score":2},{"text":"Me cuesta pero sí","score":5},{"text":"Busco a quién culpar","score":10},{"text":"Espero a que se olvide","score":8}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Líder Nato 👑 - Tienes la voz de mando y la gente confía en ti naturalmente."},
+      {"minScore":36,"maxScore":70,"text":"Colaborador Estratégico 🤝 - Eres la mano derecha perfecta. Imprescindible en cualquier equipo."},
+      {"minScore":71,"maxScore":110,"text":"Seguidor Fiel 🚶 - Prefieres la tranquilidad de no tener que decidir. Eres un buen ejecutor."}
+    ]
+  },
+  {
+    "id": 29,
+    "category": "supervivencia",
+    "title": "¿Sobrevivirías en la Edad Media?",
+    "description": "Sin antibióticos ni internet. ¿Llegarías a los 30 años?",
+    "questions": [
+      {"text":"Te despiertas en el año 1100, ¿qué haces?", "options":[{"text":"Busco al Rey para contarle el futuro","score":10},{"text":"Me busco un trabajo de campesino","score":2},{"text":"Digo que soy un mago","score":12},{"text":"Me pongo a rezar","score":5}]},
+      {"text":"¿Qué habilidad tienes que sea útil?", "options":[{"text":"Sé leer y escribir","score":2},{"text":"Sé algo de medicina básica","score":3},{"text":"Sé pelear con palos","score":8},{"text":"Ninguna, soy informático","score":15}]},
+      {"text":"Tienes una infección en el dedo:", "options":[{"text":"Me lo lavo con agua de río","score":10},{"text":"Uso moho de pan (penicilina primitiva)","score":2},{"text":"Me lo corto yo mismo","score":8},{"text":"Busco un barbero","score":5}]},
+      {"text":"Elige tu estatus social:", "options":[{"text":"Caballero","score":8},{"text":"Monje","score":5},{"text":"Campesino","score":2},{"text":"Bufón","score":10}]},
+      {"text":"¿Cómo llevas el olor a estiércol?", "options":[{"text":"Me acostumbro","score":2},{"text":"Me muero del asco","score":10},{"text":"Ni lo noto después de un día","score":5},{"text":"Uso flores en la nariz","score":8}]},
+      {"text":"Viene la Peste Negra:", "options":[{"text":"Me encierro con comida","score":5},{"text":"Huyo al campo lejos de todos","score":2},{"text":"Voy a la iglesia a pedir perdón","score":10},{"text":"Uso una máscara de pájaro","score":8}]},
+      {"text":"¿Sabes montar a caballo?", "options":[{"text":"Sí, soy experto","score":2},{"text":"He montado alguna vez","score":5},{"text":"Me da miedo","score":10},{"text":"Prefiero un burro","score":8}]},
+      {"text":"Te acusan de brujería por usar un mechero:", "options":[{"text":"Demuestro que es ciencia","score":15},{"text":"Lo tiro y pido perdón","score":2},{"text":"Intento huir a caballo","score":8},{"text":"Digo que es un regalo divino","score":5}]},
+      {"text":"Tu cena es un trozo de pan duro y sopa de nabos:", "options":[{"text":"Me lo como agradecido","score":2},{"text":"Lloro pensando en la pizza","score":10},{"text":"Busco cazar un conejo","score":5},{"text":"Intento robarle al señor feudal","score":12}]},
+      {"text":"¿Qué prefieres enfrentar?", "options":[{"text":"Un duelo de espadas","score":10},{"text":"Un invierno sin calefacción","score":5},{"text":"Caminar 50km al día","score":2},{"text":"La Inquisición","score":20}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":45,"text":"Señor Feudal 🏰 - No solo sobrevives, sino que prosperas. ¡Larga vida!"},
+      {"minScore":46,"maxScore":85,"text":"Siervo del Glena 🌾 - Sobrevives, pero tu vida es dura y llena de barro. ¡Ánimo!"},
+      {"minScore":86,"maxScore":130,"text":"Fantasma del Pasado 👻 - Moriste a los dos días por una gripe o ejecutado por raro."}
+    ]
+  },
+  {
+    "id": 30,
+    "category": "supervivencia",
+    "title": "¿Eres capaz de detectar una mentira?",
+    "description": "Pon a prueba tu radar de engaños.",
+    "questions": [
+      {"text":"Alguien te habla y no te mira a los ojos:", "options":[{"text":"Miente seguro","score":8},{"text":"Es tímido","score":2},{"text":"Está pensando","score":5},{"text":"Me está ocultando algo","score":10}]},
+      {"text":"¿En qué te fijas más al escuchar a alguien?", "options":[{"text":"En sus manos","score":5},{"text":"En el tono de su voz","score":2},{"text":"En las palabras exactas","score":10},{"text":"En sus pies","score":8}]},
+      {"text":"Alguien cuenta una historia y da DEMASIADOS detalles:", "options":[{"text":"Es muy honesto","score":2},{"text":"Está sobre-justificando una mentira","score":10},{"text":"Tiene buena memoria","score":5},{"text":"Está nervioso","score":8}]},
+      {"text":"Si alguien se toca la nariz mientras habla:", "options":[{"text":"Le pica","score":2},{"text":"Es una señal clásica de engaño","score":10},{"text":"Tiene un tic","score":5},{"text":"Está incómodo","score":8}]},
+      {"text":"¿Confías en tu intuición?", "options":[{"text":"Siempre, nunca falla","score":2},{"text":"A veces me equivoco","score":5},{"text":"Prefiero las pruebas","score":10},{"text":"No tengo intuición","score":8}]},
+      {"text":"¿Puedes mentir tú sin que se note?", "options":[{"text":"Soy un maestro","score":2},{"text":"Me pongo rojo enseguida","score":10},{"text":"Solo mentiras pequeñas","score":5},{"text":"Evito mentir","score":8}]},
+      {"text":"¿Qué significa que alguien cruce los brazos?", "options":[{"text":"Tiene frío","score":5},{"text":"Está a la defensiva","score":2},{"text":"Está enfadado","score":10},{"text":"Es su postura natural","score":8}]},
+      {"text":"Una persona honesta suele:", "options":[{"text":"Admitir que no recuerda algo","score":2},{"text":"Tener una respuesta para todo","score":10},{"text":"Hablar muy rápido","score":8},{"text":"No moverse nada","score":12}]},
+      {"text":"¿Crees que las máquinas de la verdad funcionan?", "options":[{"text":"Sí, al 100%","score":10},{"text":"Se pueden engañar","score":2},{"text":"Solo detectan nervios","score":5},{"text":"No lo sé","score":8}]},
+      {"text":"Te dicen algo increíble, ¿qué haces?", "options":[{"text":"Me lo creo","score":10},{"text":"Hago preguntas trampa","score":2},{"text":"Busco pruebas en Google","score":5},{"text":"Miro su lenguaje corporal","score":3}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Detector Humano 🔎 - Nada se te escapa. Eres un experto en leer a las personas."},
+      {"minScore":36,"maxScore":70,"text":"Observador Atento 👀 - Tienes buen ojo, pero a veces tus prejuicios te ciegan."},
+      {"minScore":71,"maxScore":110,"text":"Corazón Inocente ☁️ - Te crees todo lo que te dicen. ¡Cuidado con los estafadores!"}
+    ]
+  },
+  {
+    "id": 31,
+    "category": "supervivencia",
+    "title": "¿Cuál es tu nivel de estrés actual?",
+    "description": "Descubre si necesitas unas vacaciones o un retiro espiritual.",
+    "questions": [
+      {"text":"¿Cómo duermes últimamente?", "options":[{"text":"Como un bebé","score":2},{"text":"Me despierto varias veces","score":8},{"text":"Me cuesta dormir pensando en tareas","score":10},{"text":"Duermo mucho pero sigo cansado","score":6}]},
+      {"text":"Tu paciencia en el tráfico o colas:", "options":[{"text":"Infinita, aprovecho para oír música","score":2},{"text":"Me irrito un poco","score":5},{"text":"Siento que voy a estallar","score":10},{"text":"Me dan ganas de llorar","score":8}]},
+      {"text":"¿Cuántas veces miras el móvil al día?", "options":[{"text":"Lo justo","score":2},{"text":"A cada rato por si hay notificaciones","score":10},{"text":"He perdido la cuenta","score":12},{"text":"Solo cuando me llaman","score":5}]},
+      {"text":"¿Tienes dolores físicos (espalda, cabeza)?", "options":[{"text":"Nunca","score":2},{"text":"A veces por mala postura","score":5},{"text":"Casi a diario","score":10},{"text":"Solo cuando me estreso","score":8}]},
+      {"text":"¿Cómo reaccionas ante un imprevisto?", "options":[{"text":"Busco una solución tranquila","score":2},{"text":"Me agobio pero sigo","score":8},{"text":"Me bloqueo totalmente","score":10},{"text":"Me enfado con el mundo","score":12}]},
+      {"text":"¿Cuándo fue la última vez que no hiciste NADA?", "options":[{"text":"Ayer","score":2},{"text":"Hace una semana","score":5},{"text":"No recuerdo qué es eso","score":10},{"text":"En mis últimas vacaciones","score":8}]},
+      {"text":"Tu escritorio o habitación está:", "options":[{"text":"Impecable","score":2},{"text":"Un poco desordenado","score":5},{"text":"Es una zona catastrófica","score":10},{"text":"Ordenado pero con mil papeles","score":8}]},
+      {"text":"¿Te cuesta concentrarte?", "options":[{"text":"No, me enfoco bien","score":2},{"text":"A ratos","score":8},{"text":"Mi mente salta de una cosa a otra","score":10},{"text":"Solo si hay ruido","score":5}]},
+      {"text":"¿Cómo es tu alimentación?", "options":[{"text":"Saludable y tranquila","score":2},{"text":"Como rápido y cualquier cosa","score":10},{"text":"A veces se me olvida comer","score":12},{"text":"Pico por ansiedad","score":8}]},
+      {"text":"¿Te sientes valorado?", "options":[{"text":"Sí, mucho","score":2},{"text":"A veces no","score":8},{"text":"Siento que soy invisible","score":10},{"text":"Solo cuando cometo un error","score":12}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Zen Total 🧘 - Eres la calma personificada. ¿Cómo lo haces?"},
+      {"minScore":36,"maxScore":75,"text":"Estrés Moderado ⚖️ - Llevas mucha carga, pero aún mantienes el equilibrio. ¡Cuidado!"},
+      {"minScore":76,"maxScore":120,"text":"Bomba de Relojería 💣 - Estás al límite. ¡Para, respira y busca tiempo para ti ya!"}
+    ]
+  },
+  {
+    "id": 32,
+    "category": "supervivencia",
+    "title": "¿Eres un adicto a la adrenalina?",
+    "description": "Vives al límite o prefieres el sofá. ¡Veámoslo!",
+    "questions": [
+        {"text":"¿Te tirarías en paracaídas?", "options":[{"text":"¡Mañana mismo!","score":10},{"text":"Ni por todo el oro del mundo","score":2},{"text":"Si me empujan...","score":5},{"text":"Prefiero un simulador","score":8}]},
+        {"text":"Tu tipo de vacaciones ideal:", "options":[{"text":"Escalada y barranquismo","score":10},{"text":"Todo incluido en la playa","score":2},{"text":"Ruta por ciudades","score":5},{"text":"Acampada libre","score":8}]},
+        {"text":"¿Te gustan las películas de terror?", "options":[{"text":"Cuanto más miedo, mejor","score":10},{"text":"Las odio, no puedo dormir","score":2},{"text":"Me gustan si son buenas","score":5},{"text":"Solo si voy acompañado","score":8}]},
+        {"text":"¿Has roto alguna vez una regla 'por diversión'?", "options":[{"text":"A menudo","score":10},{"text":"Nunca, las reglas están por algo","score":2},{"text":"Alguna vez de pequeño","score":5},{"text":"Solo si no hay peligro","score":8}]},
+        {"text":"En un parque de atracciones tú:", "options":[{"text":"Vas directo a la montaña rusa más alta","score":10},{"text":"Te quedas cuidando las mochilas","score":2},{"text":"Vas a las de agua","score":5},{"text":"Subes a todo sufriendo","score":8}]},
+        {"text":"¿Te gusta conducir rápido?", "options":[{"text":"Me encanta la velocidad","score":10},{"text":"Soy muy prudente","score":2},{"text":"A veces me paso un poco","score":5},{"text":"Prefiero que me lleven","score":8}]},
+        {"text":"¿Cómo llevas los cambios de vida?", "options":[{"text":"Me emocionan los nuevos retos","score":10},{"text":"Me aterran","score":2},{"text":"Me adapto con el tiempo","score":5},{"text":"Solo si están planeados","score":8}]},
+        {"text":"¿Hablarías con un desconocido total?", "options":[{"text":"Sí, me encanta conocer gente","score":10},{"text":"No, me da vergüenza","score":2},{"text":"Solo si él empieza","score":5},{"text":"Si es necesario","score":8}]},
+        {"text":"¿Has probado comida 'rara'?", "options":[{"text":"Pruebo todo lo que veo","score":10},{"text":"Solo lo que conozco","score":2},{"text":"Si huele bien, sí","score":5},{"text":"Solo si me obligan","score":8}]},
+        {"text":"¿Qué sientes ante un examen o reto?", "options":[{"text":"Emoción y ganas","score":10},{"text":"Náuseas y pánico","score":2},{"text":"Concentración máxima","score":5},{"text":"Ganas de que acabe","score":8}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Amante de la Paz ☕ - Valoras tu seguridad y tranquilidad por encima de todo."},
+        {"minScore":36,"maxScore":75,"text":"Aventurero Equilibrado 🏔️ - Te gusta la emoción pero siempre con el cinturón puesto."},
+        {"minScore":76,"maxScore":100,"text":"Buscador de Riesgos 🔥 - ¡Vives a mil por hora! La adrenalina es tu combustible."}
+    ]
+  },
+  {
+    "id": 33,
+    "category": "supervivencia",
+    "title": "¿Sobrevivirías en una Isla Desierta?",
+    "description": "Como Náufrago, pero sin Wilson (o quizás sí).",
+    "questions": [
+        {"text":"Lo primero que haces al llegar a la playa:", "options":[{"text":"Exploro la isla","score":10},{"text":"Busco agua dulce","score":2},{"text":"Escribo SOS en la arena","score":5},{"text":"Me pongo a llorar","score":8}]},
+        {"text":"¿Qué objeto habrías querido tener?", "options":[{"text":"Un cuchillo","score":2},{"text":"Un mechero","score":5},{"text":"Un móvil (aunque no haya señal)","score":10},{"text":"Un espejo","score":8}]},
+        {"text":"¿Sabes pescar?", "options":[{"text":"Sí, con lanza o red","score":2},{"text":"He ido de pesca alguna vez","score":5},{"text":"Solo sé comprarlo en el súper","score":10},{"text":"Puedo intentarlo con las manos","score":8}]},
+        {"text":"Encuentras un coco en una palmera alta:", "options":[{"text":"Subo a por él","score":5},{"text":"Le tiro piedras","score":8},{"text":"Espero a que caiga","score":10},{"text":"Intento talar el árbol","score":12}]},
+        {"text":"Ves un barco a lo lejos:", "options":[{"text":"Hago una hoguera enorme","score":2},{"text":"Grito y salto","score":10},{"text":"Uso el espejo para reflejar luz","score":5},{"text":"Nado hacia él","score":15}]},
+        {"text":"¿Cómo llevas la soledad?", "options":[{"text":"Me gusta, estoy en paz","score":2},{"text":"Hablo con las palmeras","score":10},{"text":"Me deprimo rápido","score":8},{"text":"Me vuelvo loco en dos días","score":12}]},
+        {"text":"¿Qué comerías si no hay peces?", "options":[{"text":"Cangrejos y moluscos","score":2},{"text":"Raíces que vea","score":8},{"text":"Insectos","score":5},{"text":"Arena (por desesperación)","score":20}]},
+        {"text":"¿Dónde duermes?", "options":[{"text":"En la arena","score":8},{"text":"En una choza que construyo","score":2},{"text":"En una hamaca de lianas","score":5},{"text":"No duermo por los bichos","score":10}]},
+        {"text":"Empieza a llover torrencialmente:", "options":[{"text":"Recojo agua en hojas grandes","score":2},{"text":"Me protejo en mi refugio","score":5},{"text":"Me doy una ducha gratis","score":8},{"text":"Me asusto por los rayos","score":10}]},
+        {"text":"¿Cuál es tu mayor cualidad aquí?", "options":[{"text":"Mi fuerza física","score":5},{"text":"Mi ingenio","score":2},{"text":"Mi paciencia","score":10},{"text":"Mi suerte","score":8}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Superviviente Nato 🌴 - En dos semanas habrías construido un resort tú solo."},
+        {"minScore":36,"maxScore":75,"text":"Superviviente por Pelos 🥥 - Perderías mucho peso, pero lograrías volver a casa."},
+        {"minScore":76,"maxScore":115,"text":"Comida para Peces 🐠 - Sinceramente, la naturaleza no es tu lugar. ¡Suerte con los tiburones!"}
+    ]
+  },
+  {
+    "id": 34,
+    "category": "supervivencia",
+    "title": "¿Eres un experto en Primeros Auxilios?",
+    "description": "En una emergencia, ¿salvarías una vida o empeorarías todo?",
+    "questions": [
+        {"text":"Alguien se atraganta y no puede respirar:", "options":[{"text":"Le doy golpes fuertes en la espalda","score":5},{"text":"Hago la maniobra de Heimlich","score":2},{"text":"Le doy agua para que baje","score":10},{"text":"Grito pidiendo ayuda","score":8}]},
+        {"text":"Ves a alguien inconsciente en el suelo:", "options":[{"text":"Lo muevo para despertarlo","score":10},{"text":"Compruebo si respira","score":2},{"text":"Llamo a emergencias primero","score":5},{"text":"Le echo agua fría","score":8}]},
+        {"text":"Alguien se quema con aceite hirviendo:", "options":[{"text":"Pongo la mano bajo el grifo con agua fría","score":2},{"text":"Pongo pasta de dientes","score":10},{"text":"Pongo hielo directo","score":8},{"text":"Pongo aceite o mantequilla","score":12}]},
+        {"text":"Una persona tiene una hemorragia fuerte en el brazo:", "options":[{"text":"Presiono fuerte con un paño limpio","score":2},{"text":"Hago un torniquete enseguida","score":8},{"text":"Lavo la herida con alcohol","score":10},{"text":"Elevo el brazo","score":5}]},
+        {"text":"Sospechas que alguien tiene un ataque al corazón:", "options":[{"text":"Le doy un vaso de agua","score":10},{"text":"Le digo que se siente y llamo al 112","score":2},{"text":"Le hago RCP de inmediato","score":8},{"text":"Espero a ver si se le pasa","score":12}]},
+        {"text":"¿Qué significa RCP?", "options":[{"text":"Reanimación Cardio Pulmonar","score":2},{"text":"Respiración Con Paciencia","score":10},{"text":"Reacción Contra Paro","score":8},{"text":"No lo sé","score":15}]},
+        {"text":"Alguien convulsiona en el suelo:", "options":[{"text":"Le meto algo en la boca","score":12},{"text":"Aparto objetos peligrosos y protejo su cabeza","score":2},{"text":"Lo sujeto fuerte para que no se mueva","score":10},{"text":"Le doy una bofetada","score":15}]},
+        {"text":"¿Tienes un botiquín en casa?", "options":[{"text":"Sí, completo y revisado","score":2},{"text":"Tengo tiritas y poco más","score":8},{"text":"Ni idea de dónde está","score":10},{"text":"Compro cosas cuando me hago daño","score":5}]},
+        {"text":"Ves un accidente de coche, lo primero es:", "options":[{"text":"Sacar a los heridos","score":10},{"text":"Proteger la zona (triángulos, chaleco)","score":2},{"text":"Llamar a mi madre","score":15},{"text":"Hacer una foto","score":20}]},
+        {"text":"Alguien se desmaya, ¿qué haces?", "options":[{"text":"Le levanto las piernas","score":2},{"text":"Le doy de comer azúcar","score":8},{"text":"Lo dejo sentado","score":10},{"text":"Le abanico","score":5}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Héroe de Emergencias 🚑 - Sabes qué hacer en momentos críticos. ¡Podrías salvar vidas!"},
+        {"minScore":36,"maxScore":75,"text":"Buen Samaritano 🩹 - Tienes nociones básicas, pero necesitas refrescar algunos mitos peligrosos."},
+        {"minScore":76,"maxScore":120,"text":"Peligro Público ⚠️ - ¡Por favor, no toques a nadie! Llama a emergencias y aléjate."}
+    ]
+  },
+  {
+    "id": 35,
+    "category": "supervivencia",
+    "title": "¿Sobrevivirías en un Bosque Encantado?",
+    "description": "No es solo supervivencia, es magia y misterio.",
+    "questions": [
+        {"text":"Un árbol te habla y te pide un favor:", "options":[{"text":"Le ayudo amablemente","score":2},{"text":"Salgo corriendo gritando","score":10},{"text":"Le pido algo a cambio","score":8},{"text":"Pienso que estoy loco","score":5}]},
+        {"text":"Ves una luz brillante en la oscuridad:", "options":[{"text":"La sigo","score":10},{"text":"Me alejo en dirección opuesta","score":2},{"text":"La observo con cuidado","score":5},{"text":"Le tiro una piedra","score":12}]},
+        {"text":"Tienes mucha hambre y ves bayas doradas:", "options":[{"text":"Me las como todas","score":10},{"text":"Espero a ver si un animal las come","score":2},{"text":"Cojo una para analizarla","score":5},{"text":"Prefiero comer corteza de árbol","score":8}]},
+        {"text":"Encuentras una cabaña de chocolate y dulces:", "options":[{"text":"Entro a comer","score":12},{"text":"Sé que es una trampa","score":2},{"text":"Rodeo la cabaña con cuidado","score":5},{"text":"Le doy un bocado a la ventana","score":10}]},
+        {"text":"Un duende te ofrece un trato:", "options":[{"text":"Acepto sin leer la letra pequeña","score":15},{"text":"Rechazo cortésmente","score":2},{"text":"Intento engañarlo yo a él","score":8},{"text":"Le pido oro","score":10}]},
+        {"text":"¿Qué objeto llevas contigo?", "options":[{"text":"Una brújula de plata","score":5},{"text":"Una rama de hierro","score":2},{"text":"Un libro de cuentos","score":8},{"text":"Un espejo","score":10}]},
+        {"text":"El bosque empieza a cambiar de forma:", "options":[{"text":"Me quedo quieto y cierro los ojos","score":2},{"text":"Intento correr rápido","score":10},{"text":"Marco el camino en los árboles","score":5},{"text":"Empiezo a cantar","score":8}]},
+        {"text":"Ves a un unicornio herido:", "options":[{"text":"Lo ayudo","score":2},{"text":"Intento coger su cuerno","score":15},{"text":"Llamo a mis amigos","score":8},{"text":"Paso de largo","score":5}]},
+        {"text":"¿Crees en las hadas?", "options":[{"text":"Sí, siempre","score":2},{"text":"Solo en las películas","score":10},{"text":"A veces veo cosas raras","score":5},{"text":"Son cuentos chinos","score":12}]},
+        {"text":"El bosque te deja salir si le cuentas un secreto:", "options":[{"text":"Le cuento mi secreto más oscuro","score":2},{"text":"Le miento","score":10},{"text":"Me niego a hablar","score":8},{"text":"Le cuento un secreto de otro","score":12}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Amigo de los Bosques 🌿 - El bosque te reconoce como uno de los suyos. Estás a salvo."},
+        {"minScore":36,"maxScore":75,"text":"Explorador Perdido 🧭 - Lograste salir, pero con una maldición leve que te hará estornudar purpurina."},
+        {"minScore":76,"maxScore":125,"text":"Convertido en Sapo 🐸 - Tu arrogancia o miedo te atraparon para siempre. ¡Disfruta del pantano!"}
+    ]
+  }
+]

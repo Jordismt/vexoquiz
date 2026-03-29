@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "category": "Cine",
+    "title": "¿Qué personaje de Netflix eres realmente?",
+    "description": "Tu personalidad según tus hábitos de maratón de series.",
+    "questions": [
+      {"text":"Tu snack indispensable:", "options":[{"text":"Palomitas clásicas","score":2},{"text":"Chocolate negro","score":5},{"text":"Fruta picada","score":8},{"text":"Pizza fría","score":10}]},
+      {"text":"¿Cómo ves series?", "options":[{"text":"Un episodio al día","score":2},{"text":"Maratón de 8 horas","score":10},{"text":"Salto los intros","score":5},{"text":"En el bus/tren","score":7}]},
+      {"text":"Género favorito:", "options":[{"text":"Terror/Thriller","score":10},{"text":"Comedia romántica","score":2},{"text":"Documentales","score":8},{"text":"Ciencia Ficción","score":5}]},
+      {"text":"¿Ves el final antes de empezar?", "options":[{"text":"¡Jamás!","score":2},{"text":"A veces busco spoilers","score":7},{"text":"Siempre","score":10},{"text":"Solo si la serie es lenta","score":5}]},
+      {"text":"Tu lugar sagrado para ver TV:", "options":[{"text":"La cama","score":5},{"text":"El sofá","score":3},{"text":"La cocina","score":10},{"text":"Cualquier sitio con Wi-Fi","score":8}]},
+      {"text":"¿Compartes tu cuenta?", "options":[{"text":"Soy el que paga","score":8},{"text":"Me la prestan","score":4},{"text":"A todo el mundo","score":2},{"text":"Nadie conoce mi contraseña","score":10}]},
+      {"text":"Si cancelan tu serie favorita:", "options":[{"text":"Lloro","score":5},{"text":"Hago una petición en Change.org","score":10},{"text":"Busco otra inmediatamente","score":2},{"text":"Reveo las temporadas anteriores","score":7}]},
+      {"text":"¿Usas subtítulos?", "options":[{"text":"Siempre, aunque esté en mi idioma","score":10},{"text":"Solo si es necesario","score":5},{"text":"Nunca","score":2},{"text":"Solo en V.O.","score":8}]},
+      {"text":"Tu hora de inicio ideal:", "options":[{"text":"7 PM","score":2},{"text":"Medianoche","score":10},{"text":"A la hora de comer","score":6},{"text":"A las 5 AM","score":8}]},
+      {"text":"¿Qué haces mientras ves la TV?", "options":[{"text":"Miro el móvil","score":10},{"text":"Atención total","score":2},{"text":"Ceno","score":5},{"text":"Hago ejercicio","score":8}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"¡Eres Eleven! 👧 - Reservada pero con un poder oculto."},
+      {"minScore":36,"maxScore":70,"text":"¡Eres Joe Goldberg! 😎 - Analítico y un poco... intenso."},
+      {"minScore":71,"maxScore":110,"text":"¡Eres Lucifer! 😈 - El alma de la fiesta y un rebelde."}
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Estilo de vida",
+    "title": "¿Qué tipo de millonario serías?",
+    "description": "Tu relación con el dinero define tu futuro éxito.",
+    "questions":[
+      {"text":"Ganas 10 millones, ¿qué compras primero?", "options":[{"text":"Mansión","score":10},{"text":"Inversiones","score":2},{"text":"Viaje al espacio","score":8},{"text":"Una empresa","score":5}]},
+      {"text":"¿Prestarías dinero a amigos?", "options":[{"text":"A todos","score":10},{"text":"A nadie","score":2},{"text":"Solo con contrato","score":6},{"text":"Solo a mi familia","score":5}]},
+      {"text":"Tu coche ideal:", "options":[{"text":"Tesla","score":5},{"text":"Ferrari","score":10},{"text":"Un clásico restaurado","score":8},{"text":"No me gusta conducir","score":2}]},
+      {"text":"¿Dónde vivirías?", "options":[{"text":"Nueva York","score":8},{"text":"Una isla privada","score":10},{"text":"Un pueblo tranquilo","score":2},{"text":"Un yate","score":9}]},
+      {"text":"Tu estilo de ropa:", "options":[{"text":"Marcas de lujo visibles","score":10},{"text":"Lujo silencioso (sin logos)","score":5},{"text":"Sudadera y vaqueros","score":2},{"text":"Trajes a medida","score":8}]},
+      {"text":"¿Cómo celebras tu éxito?", "options":[{"text":"Fiesta masiva","score":10},{"text":"Cena íntima","score":2},{"text":"Donación benéfica","score":6},{"text":"Un viaje solitario","score":5}]},
+      {"text":"¿Sigues trabajando?", "options":[{"text":"Ni un minuto más","score":10},{"text":"Hago mis propios proyectos","score":5},{"text":"Sí, me encanta mi trabajo","score":2},{"text":"Compro mi empresa","score":8}]},
+      {"text":"Tu peor miedo:", "options":[{"text":"Perderlo todo","score":10},{"text":"Estar solo","score":5},{"text":"Aburrirme","score":2},{"text":"No dejar huella","score":8}]},
+      {"text":"¿Invertirías en Crypto?", "options":[{"text":"Todo al rojo","score":10},{"text":"Un pequeño porcentaje","score":5},{"text":"Ni loco","score":2},{"text":"Prefiero el oro","score":7}]},
+      {"text":"¿Qué heredarán tus hijos?", "options":[{"text":"Todo","score":8},{"text":"Nada, que trabajen","score":2},{"text":"Solo para estudios","score":5},{"text":"Una fundación","score":10}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Millonario Filántropo 😇 - El dinero es una herramienta para ayudar."},
+      {"minScore":36,"maxScore":70,"text":"Millonario Estratégico 📈 - Sabes mantener y crecer tu imperio."},
+      {"minScore":71,"maxScore":110,"text":"Lobo de Wall Street 💸 - ¡La vida es un show y tú eres el protagonista!"}
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Supervivencia",
+    "title": "¿Sobrevivirías a un Apocalipsis Zombie?",
+    "description": "¿Eres el líder del grupo o el primero en caer? Descúbrelo ahora.",
+    "questions": [
+      {"text":"Escoge tu arma principal:", "options":[{"text":"Bate de béisbol","score":5},{"text":"Ballesta silenciosa","score":8},{"text":"Hacha de mano","score":7},{"text":"Sartén pesada","score":2}]},
+      {"text":"¿A dónde irías primero?", "options":[{"text":"Supermercado","score":10},{"text":"Base militar","score":5},{"text":"Bosque lejano","score":8},{"text":"Mi propia casa","score":2}]},
+      {"text":"Tu mayor habilidad es:", "options":[{"text":"Velocidad al correr","score":10},{"text":"Saber de medicina","score":5},{"text":"Mecánica","score":7},{"text":"Caza y pesca","score":8}]},
+      {"text":"Muerden a tu mejor amigo, ¿qué haces?", "options":[{"text":"Lo dejo atrás","score":10},{"text":"Intento curarlo","score":2},{"text":"Termino con su sufrimiento","score":8},{"text":"Lloro y me quedo con él","score":5}]},
+      {"text":"Escoge un transporte:", "options":[{"text":"Moto de cross","score":10},{"text":"Tanque","score":5},{"text":"Bicicleta","score":8},{"text":"Coche deportivo","score":2}]},
+      {"text":"¿En quién confías?", "options":[{"text":"Nadie, voy solo","score":10},{"text":"Un grupo pequeño","score":7},{"text":"En cualquiera que me ayude","score":2},{"text":"En mi familia solamente","score":5}]},
+      {"text":"Se acaba la comida, ¿qué comes?", "options":[{"text":"Plantas que conozco","score":8},{"text":"Comida de perro","score":10},{"text":"Nada hasta encontrar un súper","score":2},{"text":"Insectos","score":5}]},
+      {"text":"¿Qué harías de noche?", "options":[{"text":"Dormir en un árbol","score":8},{"text":"Hacer guardia toda la noche","score":10},{"text":"Dormir en un sótano","score":5},{"text":"Viajar, es más seguro","score":2}]},
+      {"text":"Tu mayor defecto en el apocalipsis:", "options":[{"text":"Soy muy ruidoso","score":2},{"text":"Me distraigo fácil","score":5},{"text":"No sé disparar","score":7},{"text":"Confío demasiado","score":3}]},
+      {"text":"¿Cuánto tiempo crees que durarías?", "options":[{"text":"Años","score":10},{"text":"Meses","score":7},{"text":"Semanas","score":5},{"text":"Minutos","score":2}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Carne de Cañón 🧟 - Fuiste el primero en convertirte. ¡Al menos ya no tienes estrés!"},
+      {"minScore":41,"maxScore":75,"text":"Sobreviviente Promedio 🏃 - Lograste aguantar unos meses. Nada mal."},
+      {"minScore":76,"maxScore":100,"text":"Líder del Nuevo Mundo 👑 - Eres el Rick Grimes de tu grupo. ¡El mundo es tuyo!"}
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Estilo de vida",
+    "title": "¿Qué Ciudad del Mundo es tu Hogar Ideal?",
+    "description": "Tu estilo de vida te delata. ¿Eres más de rascacielos o de playa?",
+    "questions": [
+      {"text":"Tu clima preferido:", "options":[{"text":"Frío y nieve","score":10},{"text":"Eterna primavera","score":5},{"text":"Calor de playa","score":2},{"text":"Lluvia melancólica","score":8}]},
+      {"text":"Plan de sábado noche:", "options":[{"text":"Pub con amigos","score":8},{"text":"Discoteca de lujo","score":10},{"text":"Paseo tranquilo","score":2},{"text":"Evento cultural/museo","score":5}]},
+      {"text":"¿Cómo te mueves?", "options":[{"text":"Bicicleta","score":5},{"text":"Metro","score":8},{"text":"Caminando","score":2},{"text":"Coche deportivo","score":10}]},
+      {"text":"Tu comida favorita es de:", "options":[{"text":"Puesto callejero","score":8},{"text":"Restaurante Michelin","score":10},{"text":"Comida casera","score":2},{"text":"Cafetería hípster","score":5}]},
+      {"text":"Prioridad al elegir casa:", "options":[{"text":"Cerca del trabajo","score":8},{"text":"Vistas increíbles","score":10},{"text":"Jardín grande","score":2},{"text":"Diseño moderno","score":5}]},
+      {"text":"Ritmo de vida:", "options":[{"text":"A mil por hora","score":10},{"text":"Relajado","score":2},{"text":"Equilibrado","score":5},{"text":"Nocámbulo","score":8}]},
+      {"text":"¿Qué idioma te gustaría hablar?", "options":[{"text":"Inglés","score":8},{"text":"Japonés","score":10},{"text":"Italiano","score":2},{"text":"Francés","score":5}]},
+      {"text":"Tu arquitectura favorita:", "options":[{"text":"Rascacielos de cristal","score":10},{"text":"Edificios históricos","score":5},{"text":"Casas de madera","score":2},{"text":"Estilo industrial","score":8}]},
+      {"text":"Nivel de ruido tolerado:", "options":[{"text":"Silencio absoluto","score":2},{"text":"Bullicio de ciudad","score":10},{"text":"Sonido del mar","score":5},{"text":"Música de fondo","score":8}]},
+      {"text":"¿Qué no puede faltar?", "options":[{"text":"Wi-Fi rápido","score":10},{"text":"Parques verdes","score":2},{"text":"Tiendas de marca","score":8},{"text":"Buena gente","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Barcelona / Roma 🍕 - Amas la historia, el sol y la buena vida."},
+      {"minScore":36,"maxScore":70,"text":"Londres / París 🥐 - Eres cosmopolita, culto y un poco hípster."},
+      {"minScore":71,"maxScore":110,"text":"Nueva York / Tokio 🗼 - Vives en el futuro y amas el caos urbano."}
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Personalidad",
+    "title": "¿Qué Dios Griego sería tu mejor amigo?",
+    "description": "Tu personalidad encaja con el Olimpo. ¡Descúbrelo!",
+    "questions": [
+      {"text":"Si alguien te insulta...", "options":[{"text":"Lanzó un rayo (metafórico)","score":10},{"text":"Me río y lo ignoro","score":5},{"text":"Planeo mi venganza","score":8},{"text":"Trato de entenderlo","score":2}]},
+      {"text":"Tu elemento favorito:", "options":[{"text":"Fuego","score":10},{"text":"Mar","score":8},{"text":"Aire","score":5},{"text":"Tierra","score":2}]},
+      {"text":"En una fiesta tú eres:", "options":[{"text":"El que no deja de beber","score":10},{"text":"El que está ligando","score":8},{"text":"El que analiza a todos","score":5},{"text":"El que no quería ir","score":2}]},
+      {"text":"Tu pasatiempo favorito:", "options":[{"text":"Hacer ejercicio","score":10},{"text":"Leer un buen libro","score":5},{"text":"Dormir","score":2},{"text":"Viajar","score":8}]},
+      {"text":"¿Qué valoras más?", "options":[{"text":"Poder","score":10},{"text":"Sabiduría","score":5},{"text":"Belleza","score":8},{"text":"Lealtad","score":2}]},
+      {"text":"Animal favorito:", "options":[{"text":"Águila","score":10},{"text":"Búho","score":5},{"text":"Delfín","score":8},{"text":"Perro","score":2}]},
+      {"text":"Tu clima ideal:", "options":[{"text":"Tormenta eléctrica","score":10},{"text":"Atardecer cálido","score":8},{"text":"Noche estrellada","score":5},{"text":"Mañana de campo","score":2}]},
+      {"text":"Si fueras a la guerra serías:", "options":[{"text":"General estratega","score":5},{"text":"Guerrero de primera línea","score":10},{"text":"El que negocia la paz","score":2},{"text":"El que vende las armas","score":8}]},
+      {"text":"¿Cómo es tu habitación?", "options":[{"text":"Un caos total","score":10},{"text":"Minimalista y limpia","score":5},{"text":"Llena de espejos y lujos","score":8},{"text":"Acogedora","score":2}]},
+      {"text":"Tu mayor miedo:", "options":[{"text":"Ser débil","score":10},{"text":"La ignorancia","score":5},{"text":"Que nadie me quiera","score":8},{"text":"La soledad","score":2}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Atenea / Hades 🦉 - Eres inteligente, serio y muy leal."},
+      {"minScore":36,"maxScore":70,"text":"Afrodita / Poseidón 🌊 - Amas la belleza y eres muy emocional."},
+      {"minScore":71,"maxScore":110,"text":"Zeus / Dionisio ⚡ - Eres intenso, poderoso y amas la libertad."}
+    ]
+  }
+]

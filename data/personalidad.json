@@ -1,0 +1,232 @@
+[
+  {
+    "id": 6,
+    "category": "Personalidad",
+    "title": "¿Cuál es tu verdadera Edad Mental?",
+    "description": "Tu cuerpo dice una cosa, pero ¿qué dice tu alma? ¡La respuesta te sorprenderá!",
+    "questions": [
+      {"text":"Tu plan ideal de viernes noche:", "options":[{"text":"Fiesta hasta el amanecer","score":2},{"text":"Cena tranquila y dormir pronto","score":10},{"text":"Videojuegos o pelis","score":5},{"text":"Leer con una copa de vino","score":8}]},
+      {"text":"¿Qué haces si te dan mal la vuelta en una tienda?", "options":[{"text":"No me doy ni cuenta","score":2},{"text":"Reclamo educadamente","score":8},{"text":"Les explico cómo hacer su trabajo","score":10},{"text":"Me da vergüenza decir nada","score":5}]},
+      {"text":"¿Cuántas alarmas necesitas para despertar?", "options":[{"text":"Una y salto de la cama","score":10},{"text":"Cinco y voy tarde","score":2},{"text":"Me despierto antes de que suene","score":8},{"text":"No uso, mi cuerpo sabe","score":6}]},
+      {"text":"¿Qué piensas de la música actual?", "options":[{"text":"Es la mejor época","score":2},{"text":"Hay cosas buenas","score":5},{"text":"La de antes era mejor","score":10},{"text":"No la entiendo","score":8}]},
+      {"text":"Tu relación con la tecnología:", "options":[{"text":"Soy un experto","score":2},{"text":"Me defiendo bien","score":5},{"text":"A veces me supera","score":8},{"text":"Solo uso lo básico","score":10}]},
+      {"text":"¿Qué haces si ves a alguien llorar?", "options":[{"text":"Me incomodo y me voy","score":2},{"text":"Le pregunto qué le pasa","score":8},{"text":"Le doy un pañuelo","score":10},{"text":"Lloro con esa persona","score":5}]},
+      {"text":"Tu mayor responsabilidad es:", "options":[{"text":"Llegar vivo al lunes","score":2},{"text":"Mis estudios/trabajo","score":5},{"text":"Mi familia y hogar","score":10},{"text":"Mis metas a largo plazo","score":8}]},
+      {"text":"¿Cómo llevas las críticas?", "options":[{"text":"Me enfado mucho","score":2},{"text":"Las analizo para mejorar","score":10},{"text":"Me dan igual","score":5},{"text":"Me pongo triste","score":8}]},
+      {"text":"¿Qué desayunas?", "options":[{"text":"Cereales de colores","score":2},{"text":"Solo café","score":8},{"text":"Tostadas integrales y fruta","score":10},{"text":"Lo que encuentre","score":5}]},
+      {"text":"¿Dónde te ves en 10 años?", "options":[{"text":"Viajando por el mundo","score":2},{"text":"Con estabilidad y paz","score":10},{"text":"Siendo famoso/exitoso","score":5},{"text":"No lo he pensado","score":3}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Edad Mental: 15 años 🍭 - Eres un espíritu libre y joven. ¡La vida es un juego!"},
+      {"minScore":36,"maxScore":75,"text":"Edad Mental: 30 años 👔 - Estás en el equilibrio perfecto entre diversión y madurez."},
+      {"minScore":76,"maxScore":100,"text":"Edad Mental: 60 años 👴 - Eres un alma sabia. Probablemente das mejores consejos que tus padres."}
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Personalidad",
+    "title": "¿Qué Animal Espiritual guía tu vida?",
+    "description": "Descubre la criatura mística que representa tu fuerza interior.",
+    "questions": [
+      {"text":"¿Cuál es tu mayor virtud?", "options":[{"text":"La paciencia","score":8},{"text":"La fuerza","score":10},{"text":"La astucia","score":5},{"text":"La libertad","score":2}]},
+      {"text":"¿Cómo reaccionas ante un problema?", "options":[{"text":"Ataco de frente","score":10},{"text":"Busco una salida inteligente","score":5},{"text":"Espero el momento justo","score":8},{"text":"Pido ayuda","score":2}]},
+      {"text":"Tu hora favorita del día:", "options":[{"text":"El amanecer","score":2},{"text":"El mediodía","score":10},{"text":"El atardecer","score":8},{"text":"La medianoche","score":5}]},
+      {"text":"¿Dónde prefieres estar?", "options":[{"text":"En lo alto de una montaña","score":2},{"text":"En la selva densa","score":10},{"text":"En el desierto infinito","score":5},{"text":"Cerca del agua","score":8}]},
+      {"text":"¿Cómo eres en un grupo?", "options":[{"text":"El líder","score":10},{"text":"El solitario","score":5},{"text":"El protector","score":8},{"text":"El que hace reír","score":2}]},
+      {"text":"Elige un color:", "options":[{"text":"Dorado","score":10},{"text":"Plateado","score":5},{"text":"Verde","score":8},{"text":"Azul","score":2}]},
+      {"text":"¿Qué te motiva más?", "options":[{"text":"El éxito","score":10},{"text":"La paz","score":8},{"text":"El conocimiento","score":5},{"text":"La aventura","score":2}]},
+      {"text":"Tu mayor miedo es:", "options":[{"text":"La debilidad","score":10},{"text":"El encierro","score":2},{"text":"La traición","score":8},{"text":"El olvido","score":5}]},
+      {"text":"¿Cómo descansas?", "options":[{"text":"Durmiendo mucho","score":8},{"text":"Meditando o leyendo","score":5},{"text":"Haciendo deporte","score":10},{"text":"Estando con amigos","score":2}]},
+      {"text":"Si pudieras volar, ¿lo harías?", "options":[{"text":"Sí, para ver todo desde arriba","score":2},{"text":"No, prefiero tener los pies en la tierra","score":10},{"text":"Solo si es necesario","score":8},{"text":"Prefiero nadar","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Tu animal es el Águila 🦅 - Amas la libertad y tienes una visión clara de tus metas."},
+      {"minScore":36,"maxScore":75,"text":"Tu animal es el Lobo 🐺 - Eres leal, inteligente y valoras a tu 'manada'."},
+      {"minScore":76,"maxScore":100,"text":"Tu animal es el León 🦁 - Eres puro coraje y liderazgo. Nadie te detiene."}
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Personalidad",
+    "title": "¿Qué Villano de Película eres según tu humor?",
+    "description": "Todos tenemos un lado oscuro... ¿cuál es el tuyo?",
+    "questions": [
+      {"text":"¿Qué te hace perder los nervios?", "options":[{"text":"La desobediencia","score":10},{"text":"La estupidez","score":8},{"text":"Que me interrumpan","score":5},{"text":"Nada, siempre estoy relajado","score":2}]},
+      {"text":"Tu plan para dominar el mundo sería:", "options":[{"text":"Con un ejército masivo","score":10},{"text":"Desde las sombras con tecnología","score":8},{"text":"Usando el caos y el miedo","score":5},{"text":"Convenciendo a todos","score":2}]},
+      {"text":"¿Tienes secuaces?", "options":[{"text":"Miles, pero no confío en ellos","score":10},{"text":"Solo uno muy fiel","score":8},{"text":"Prefiero trabajar solo","score":5},{"text":"Los trato como amigos","score":2}]},
+      {"text":"Si el héroe te atrapa...", "options":[{"text":"Escapo con un truco","score":5},{"text":"Le cuento mi plan maestro","score":10},{"text":"Pido clemencia para traicionarlo","score":8},{"text":"Me río en su cara","score":6}]},
+      {"text":"Tu vestimenta ideal:", "options":[{"text":"Traje elegante o armadura","score":10},{"text":"Capa y colores oscuros","score":8},{"text":"Ropa cómoda pero con estilo","score":5},{"text":"Disfraz loco","score":2}]},
+      {"text":"¿Qué haces con tus enemigos?", "options":[{"text":"Los destruyo","score":10},{"text":"Los convierto a mi bando","score":5},{"text":"Los encierro para siempre","score":8},{"text":"Juego con ellos","score":2}]},
+      {"text":"Tu base secreta está en:", "options":[{"text":"Un volcán","score":10},{"text":"Un rascacielos","score":8},{"text":"Una dimensión paralela","score":5},{"text":"Un sótano","score":2}]},
+      {"text":"¿Qué música escuchas?", "options":[{"text":"Clásica potente","score":10},{"text":"Rock pesado","score":8},{"text":"Pop pegajoso (para despistar)","score":5},{"text":"Silencio","score":2}]},
+      {"text":"¿Cuál es tu debilidad?", "options":[{"text":"Mi arrogancia","score":10},{"text":"Mi pasado","score":5},{"text":"Un ser querido","score":8},{"text":"Ninguna","score":2}]},
+      {"text":"¿Te consideras el malo de la historia?", "options":[{"text":"Sí, y me encanta","score":2},{"text":"Soy el héroe de mi propia historia","score":10},{"text":"Solo hago lo necesario","score":8},{"text":"El bien y el mal son relativos","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Eres el Joker 🤡 - Caótico, impredecible y muy divertido (a tu manera)."},
+      {"minScore":41,"maxScore":75,"text":"Eres Darth Vader 🌌 - Imponente, serio y con un pasado complicado."},
+      {"minScore":76,"maxScore":100,"text":"Eres Thanos 💎 - Crees que tus acciones, aunque duras, son por un bien mayor."}
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Personalidad",
+    "title": "¿Cuál es tu Superpoder ideal según tu carácter?",
+    "description": "Si vivieras en un mundo de héroes, ¿qué habilidad tendrías?",
+    "questions": [
+      {"text":"¿Qué harías si pudieras ser invisible por un día?", "options":[{"text":"Gastar bromas","score":5},{"text":"Espiar secretos","score":8},{"text":"Ayudar a la gente en secreto","score":10},{"text":"Irme a dormir a un hotel de lujo","score":2}]},
+      {"text":"Tu mayor miedo es:", "options":[{"text":"La soledad","score":8},{"text":"La muerte","score":10},{"text":"El fracaso","score":5},{"text":"El aburrimiento","score":2}]},
+      {"text":"Elige un elemento:", "options":[{"text":"Fuego","score":10},{"text":"Agua","score":5},{"text":"Aire","score":2},{"text":"Tierra","score":8}]},
+      {"text":"¿Cómo resuelves un conflicto?", "options":[{"text":"Con palabras","score":2},{"text":"Con fuerza","score":10},{"text":"Con estrategia","score":8},{"text":"Ignorándolo","score":5}]},
+      {"text":"Tu lugar favorito:", "options":[{"text":"Una gran ciudad","score":10},{"text":"Una biblioteca","score":8},{"text":"Un bosque","score":5},{"text":"La nube","score":2}]},
+      {"text":"¿Qué valoras más?", "options":[{"text":"Justicia","score":10},{"text":"Libertad","score":2},{"text":"Sabiduría","score":8},{"text":"Poder","score":5}]},
+      {"text":"Si ves un atraco, tú:", "options":[{"text":"Llamas a la policía","score":8},{"text":"Intervienes de inmediato","score":10},{"text":"Te escondes","score":2},{"text":"Analizas la situación","score":5}]},
+      {"text":"Tu estilo de pelea sería:", "options":[{"text":"Cuerpo a cuerpo","score":10},{"text":"A distancia","score":5},{"text":"Psicológico","score":8},{"text":"No pelearía","score":2}]},
+      {"text":"¿Qué viaje prefieres?", "options":[{"text":"Al futuro","score":5},{"text":"Al pasado","score":8},{"text":"A otro planeta","score":10},{"text":"Al fondo del mar","score":2}]},
+      {"text":"Tu animal favorito:", "options":[{"text":"Halcón","score":2},{"text":"Tigre","score":10},{"text":"Delfín","score":5},{"text":"Búho","score":8}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Teletransportación 🌀 - Eres inquieto y amas la libertad absoluta."},
+      {"minScore":36,"maxScore":70,"text":"Telepatía 🧠 - Eres analítico y siempre vas un paso por delante de los demás."},
+      {"minScore":71,"maxScore":100,"text":"Superfuerza 💪 - Eres directo, valiente y el protector de tus amigos."}
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Personalidad",
+    "title": "¿Eres Introvertido, Extrovertido o Ambivertido?",
+    "description": "Descubre cómo recargas tus energías sociales.",
+    "questions": [
+      {"text":"Llegas a una fiesta donde no conoces a nadie:", "options":[{"text":"Me voy a los 5 minutos","score":2},{"text":"Busco la mesa de la comida","score":5},{"text":"Empiezo a hablar con el primero que veo","score":10},{"text":"Espero a que alguien me hable","score":8}]},
+      {"text":"¿Cómo prefieres trabajar?", "options":[{"text":"Solo, en silencio","score":2},{"text":"En equipo, debatiendo","score":10},{"text":"Solo, pero con gente cerca","score":8},{"text":"Me da igual","score":5}]},
+      {"text":"Tu fin de semana ideal:", "options":[{"text":"Salir de fiesta ambos días","score":10},{"text":"Un día de fiesta, otro de descanso","score":8},{"text":"Netflix y mantita","score":2},{"text":"Senderismo con un amigo","score":5}]},
+      {"text":"¿Hablas mucho por teléfono?", "options":[{"text":"Odio las llamadas, prefiero texto","score":2},{"text":"Solo si es importante","score":5},{"text":"Me encanta charlar horas","score":10},{"text":"Prefiero notas de voz","score":8}]},
+      {"text":"Después de un evento social largo:", "options":[{"text":"Estoy lleno de energía","score":10},{"text":"Necesito 3 días de soledad","score":2},{"text":"Estoy cansado pero feliz","score":8},{"text":"Depende de con quién estuviera","score":5}]},
+      {"text":"¿Cuántos amigos de verdad tienes?", "options":[{"text":"Muchísimos","score":10},{"text":"2 o 3","score":2},{"text":"Un grupo pequeño de 5","score":5},{"text":"Cientos de conocidos","score":8}]},
+      {"text":"En un debate, tú:", "options":[{"text":"Escuchas más de lo que hablas","score":2},{"text":"Dices tu opinión con fuerza","score":10},{"text":"Intervienes lo justo","score":5},{"text":"Intentas mediar","score":8}]},
+      {"text":"¿Te gusta ser el centro de atención?", "options":[{"text":"Me encanta","score":10},{"text":"Lo detesto","score":2},{"text":"No me importa si es por algo bueno","score":8},{"text":"Me pone nervioso","score":5}]},
+      {"text":"¿Cómo son tus vacaciones ideales?", "options":[{"text":"Ciudad llena de gente y ruido","score":10},{"text":"Cabaña en el bosque","score":2},{"text":"Un resort con actividades","score":8},{"text":"Turismo cultural tranquilo","score":5}]},
+      {"text":"¿Piensas antes de hablar?", "options":[{"text":"Siempre, analizo cada palabra","score":2},{"text":"Suelto lo primero que me viene","score":10},{"text":"Depende de la confianza","score":8},{"text":"A veces","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Introvertido Puro 🧘 - Tu mundo interior es tu refugio y tu mayor tesoro."},
+      {"minScore":36,"maxScore":75,"text":"Ambivertido ⚖️ - Tienes lo mejor de ambos mundos. Te adaptas a cualquier situación."},
+      {"minScore":76,"maxScore":100,"text":"Extrovertido Total ⚡ - Eres pura energía social. ¡Brillas donde vas!"}
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Personalidad",
+    "title": "¿Qué tipo de inteligencia destaca en ti?",
+    "description": "No todo es matemáticas. ¡Descubre tu don!",
+    "questions": [
+        {"text":"¿Qué se te da mejor?", "options":[{"text":"Resolver acertijos","score":10},{"text":"Entender a la gente","score":5},{"text":"Dibujar o diseñar","score":8},{"text":"Bailar o deportes","score":2}]},
+        {"text":"Tu materia favorita en el colegio:", "options":[{"text":"Lengua/Literatura","score":5},{"text":"Matemáticas/Ciencias","score":10},{"text":"Educación Física","score":2},{"text":"Arte/Música","score":8}]},
+        {"text":"Si te pierdes en una ciudad:", "options":[{"text":"Miro el mapa un segundo y me ubico","score":8},{"text":"Pregunto a alguien","score":5},{"text":"Uso la lógica de las calles","score":10},{"text":"Me dejo llevar por la intuición","score":2}]},
+        {"text":"¿Cómo aprendes algo nuevo?", "options":[{"text":"Leyendo un manual","score":10},{"text":"Viendo un video","score":8},{"text":"Haciéndolo con mis manos","score":2},{"text":"Hablándolo con otros","score":5}]},
+        {"text":"¿Qué haces en tu tiempo libre?", "options":[{"text":"Escribir o leer","score":5},{"text":"Hacer sudokus o puzzles","score":10},{"text":"Arreglar cosas en casa","score":2},{"text":"Escuchar música","score":8}]},
+        {"text":"¿Eres bueno dando consejos?", "options":[{"text":"Sí, entiendo las emociones","score":10},{"text":"Doy soluciones prácticas","score":5},{"text":"Escucho pero no sé qué decir","score":2},{"text":"Digo lo que dice la lógica","score":8}]},
+        {"text":"¿Sabes tocar instrumentos?", "options":[{"text":"Varios","score":10},{"text":"Uno bien","score":8},{"text":"No, pero tengo ritmo","score":5},{"text":"Se me da fatal","score":2}]},
+        {"text":"¿Te fijas en los detalles?", "options":[{"text":"Mucho, soy perfeccionista","score":10},{"text":"Solo en lo visual","score":8},{"text":"No, prefiero la idea general","score":2},{"text":"Me fijo en las personas","score":5}]},
+        {"text":"¿Cómo organizas tu día?", "options":[{"text":"Con una lista detallada","score":10},{"text":"En mi cabeza","score":5},{"text":"No me organizo, fluyo","score":2},{"text":"Por colores o importancia","score":8}]},
+        {"text":"¿Te gusta la naturaleza?", "options":[{"text":"Me apasiona clasificar plantas/animales","score":10},{"text":"Me gusta para pasear","score":5},{"text":"Prefiero la ciudad","score":2},{"text":"Me inspira para crear","score":8}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":40,"text":"Inteligencia Creativa/Kinestésica 🎨 - Aprendes haciendo y creando."},
+        {"minScore":41,"maxScore":75,"text":"Inteligencia Social/Lingüística 🗣️ - Tu fuerte son las personas y las palabras."},
+        {"minScore":76,"maxScore":100,"text":"Inteligencia Lógico-Matemática 🔍 - Eres puro análisis y resolución de problemas."}
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Personalidad",
+    "title": "¿Cuál es tu lenguaje del amor?",
+    "description": "Descubre cómo prefieres dar y recibir afecto.",
+    "questions": [
+        {"text":"Para ti, un regalo perfecto es:", "options":[{"text":"Algo hecho a mano","score":8},{"text":"Algo que pedí hace mucho","score":10},{"text":"Un abrazo sincero","score":2},{"text":"Un viaje juntos","score":5}]},
+        {"text":"Tu pareja ideal debe:", "options":[{"text":"Decirme que me quiere a diario","score":10},{"text":"Ayudarme con las tareas","score":5},{"text":"Darme muchos besos","score":2},{"text":"Pasar tiempo de calidad conmigo","score":8}]},
+        {"text":"Te sientes mal y un amigo...", "options":[{"text":"Te trae tu comida favorita","score":10},{"text":"Te escucha por horas","score":5},{"text":"Te da un abrazo largo","score":2},{"text":"Te ayuda a limpiar tu casa","score":8}]},
+        {"text":"¿Qué prefieres en un aniversario?", "options":[{"text":"Una carta romántica","score":10},{"text":"Una cena sin móviles","score":5},{"text":"Un regalo caro","score":8},{"text":"Dormir abrazados","score":2}]},
+        {"text":"Odias que tu pareja:", "options":[{"text":"No te escuche","score":10},{"text":"Sea fría físicamente","score":2},{"text":"No te ayude en nada","score":5},{"text":"Se olvide de fechas importantes","score":8}]},
+        {"text":"¿Cómo demuestras cariño?", "options":[{"text":"Haciendo favores","score":5},{"text":"Con contacto físico","score":2},{"text":"Comprando detalles","score":10},{"text":"Diciendo cumplidos","score":8}]},
+        {"text":"En una relación valoras:", "options":[{"text":"La comunicación","score":10},{"text":"La pasión","score":2},{"text":"El apoyo mutuo","score":8},{"text":"La exclusividad","score":5}]},
+        {"text":"Tu cita perfecta es:", "options":[{"text":"Caminando de la mano","score":2},{"text":"Cocinando juntos","score":5},{"text":"Ir de compras","score":10},{"text":"Una charla profunda","score":8}]},
+        {"text":"Te sientes amado cuando:", "options":[{"text":"Te dicen 'estoy orgulloso de ti'","score":10},{"text":"Te dan un masaje","score":2},{"text":"Te sorprenden con algo","score":8},{"text":"Te quitan peso de encima","score":5}]},
+        {"text":"¿Qué guardas con más cariño?", "options":[{"text":"Un peluche o detalle","score":10},{"text":"Un recuerdo de un viaje","score":5},{"text":"Una nota escrita","score":8},{"text":"La sensación de un abrazo","score":2}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Contacto Físico / Tiempo de Calidad 💞 - Necesitas presencia y cercanía real."},
+        {"minScore":36,"maxScore":70,"text":"Actos de Servicio / Palabras de Afirmación ✨ - Valoras el apoyo y el reconocimiento."},
+        {"minScore":71,"maxScore":100,"text":"Regalos / Detalles Materiales 🎁 - Para ti, los objetos guardan el valor del afecto."}
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Personalidad",
+    "title": "¿Cuál es tu mayor defecto oculto?",
+    "description": "Nadie es perfecto. Veamos qué dice tu subconsciente.",
+    "questions": [
+        {"text":"Cuando alguien tiene éxito, tú:", "options":[{"text":"Me alegro sinceramente","score":2},{"text":"Siento un poco de envidia","score":8},{"text":"Pienso que yo podría hacerlo mejor","score":10},{"text":"Me da igual","score":5}]},
+        {"text":"¿Eres impuntual?", "options":[{"text":"Siempre","score":10},{"text":"Nunca","score":2},{"text":"A veces","score":5},{"text":"Llego antes de tiempo","score":3}]},
+        {"text":"¿Te cuesta pedir perdón?", "options":[{"text":"Muchísimo","score":10},{"text":"No, lo hago rápido","score":2},{"text":"Solo si tengo la culpa","score":5},{"text":"Depende de quién sea","score":8}]},
+        {"text":"¿Eres ordenado?", "options":[{"text":"Mi cuarto es un caos","score":10},{"text":"Soy maniático del orden","score":2},{"text":"Normal","score":5},{"text":"Ordenado pero a mi manera","score":8}]},
+        {"text":"¿Guardas rencor?", "options":[{"text":"Por años","score":10},{"text":"Se me pasa en 5 minutos","score":2},{"text":"Depende de la gravedad","score":8},{"text":"Perdono pero no olvido","score":5}]},
+        {"text":"¿Mientes a menudo?", "options":[{"text":"Solo mentiras piadosas","score":5},{"text":"A veces para evitar problemas","score":10},{"text":"Casi nunca","score":2},{"text":"Siempre soy directo","score":4}]},
+        {"text":"Tu actitud ante el trabajo:", "options":[{"text":"Procrastino hasta el final","score":10},{"text":"Soy muy trabajador","score":2},{"text":"Hago lo justo","score":5},{"text":"Soy perfeccionista","score":8}]},
+        {"text":"¿Te gusta criticar?", "options":[{"text":"Es mi deporte favorito","score":10},{"text":"No me gusta","score":2},{"text":"Solo con mis mejores amigos","score":8},{"text":"A veces se me escapa","score":5}]},
+        {"text":"¿Eres gastador?", "options":[{"text":"Derracho el dinero","score":10},{"text":"Soy muy tacaño","score":2},{"text":"Ahorro pero me doy gustos","score":5},{"text":"No sé en qué se me va el dinero","score":8}]},
+        {"text":"¿Cómo reaccionas al perder un juego?", "options":[{"text":"Me enfado y tiro todo","score":10},{"text":"Felicito al ganador","score":2},{"text":"Pido revancha obsesivamente","score":8},{"text":"Me da igual, es solo un juego","score":5}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Perfeccionismo / Rigidez 📏 - Tu mayor defecto es ser demasiado duro contigo y con los demás."},
+        {"minScore":36,"maxScore":75,"text":"Procrastinación / Desorden 🌪️ - Te cuesta enfocarte y dejar de posponer las cosas."},
+        {"minScore":76,"maxScore":100,"text":"Orgullo / Envidia 🐍 - Tu ego a veces te juega malas pasadas en tus relaciones."}
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Personalidad",
+    "title": "¿Qué harías por dinero?",
+    "description": "Pongamos a prueba tus principios éticos.",
+    "questions": [
+        {"text":"¿Comerías una cucaracha viva por 1.000€?", "options":[{"text":"Sin dudarlo","score":10},{"text":"Ni por un millón","score":2},{"text":"Si me dejan cocinarla un poco...","score":5},{"text":"Depende de si hay cámaras","score":8}]},
+        {"text":"¿Mentirías a tu jefe por un aumento?", "options":[{"text":"Sí, si no me pillan","score":10},{"text":"No, la honestidad es clave","score":2},{"text":"Solo si es una mentira pequeña","score":5},{"text":"Ya lo he hecho","score":12}]},
+        {"text":"¿Vivirías un año en una isla sin internet por 50.000€?", "options":[{"text":"¡Firmando ahora mismo!","score":10},{"text":"Imposible, moriría","score":2},{"text":"Por más dinero sí","score":5},{"text":"Me encantaría gratis","score":8}]},
+        {"text":"¿Traicionarías un secreto de un amigo por 5.000€?", "options":[{"text":"Sí, el dinero viene bien","score":10},{"text":"Jamás","score":2},{"text":"Si el secreto no es grave...","score":5},{"text":"Le pediría permiso y repartimos","score":8}]},
+        {"text":"¿Trabajarías en algo que odias por un sueldo alto?", "options":[{"text":"Sí, el dinero compra la felicidad","score":10},{"text":"No, mi paz mental vale más","score":2},{"text":"Solo unos años para ahorrar","score":5},{"text":"Depende de las vacaciones","score":8}]},
+        {"text":"¿Dormirías en un cementerio una noche por 500€?", "options":[{"text":"Claro, no hacen nada","score":10},{"text":"No, me da pavor","score":2},{"text":"Por 1.000€ sí","score":5},{"text":"Si llevo compañía sí","score":8}]},
+        {"text":"¿Te casarías por dinero?", "options":[{"text":"Es el plan A","score":10},{"text":"Solo por amor","score":2},{"text":"Si la otra persona me cae bien...","score":5},{"text":"Ya está en mis planes","score":8}]},
+        {"text":"¿Robarías 1€ a un millonario?", "options":[{"text":"Sí, no lo notará","score":10},{"text":"No, robar es robar","score":2},{"text":"Si es para una buena causa","score":5},{"text":"Si son 100€ mejor","score":8}]},
+        {"text":"¿Dejarías tu ciudad por un trabajo mejor pagado?", "options":[{"text":"Mañana mismo","score":10},{"text":"No, mis raíces son sagradas","score":2},{"text":"Depende del destino","score":5},{"text":"Si me pagan la mudanza","score":8}]},
+        {"text":"¿Serías capaz de ser 'mala persona' si eso te hiciera rico?", "options":[{"text":"El fin justifica los medios","score":10},{"text":"Prefiero ser pobre y bueno","score":2},{"text":"Solo un poquito malo","score":5},{"text":"Depende de qué tan rico","score":8}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Incorruptible ✨ - Tus valores están por encima de cualquier cheque."},
+        {"minScore":36,"maxScore":75,"text":"Pragmático 💰 - Sabes que el dinero es necesario y estás dispuesto a ceder, pero con límites."},
+        {"minScore":76,"maxScore":100,"text":"Mercenario Total 💸 - ¡Tienes el signo del dólar en los ojos! Harías casi cualquier cosa."}
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Personalidad",
+    "title": "¿Cómo es tu Aura según tus gustos?",
+    "description": "Los colores que proyectas dicen mucho de tu energía.",
+    "questions": [
+        {"text":"¿Cuál es tu color favorito para vestir?", "options":[{"text":"Negro o gris","score":5},{"text":"Blanco o tonos pastel","score":2},{"text":"Rojo o naranja","score":10},{"text":"Azul o verde","score":8}]},
+        {"text":"Elige una gema:", "options":[{"text":"Diamante","score":2},{"text":"Rubí","score":10},{"text":"Esmeralda","score":8},{"text":"Amatista","score":5}]},
+        {"text":"¿Qué te relaja más?", "options":[{"text":"Ver el fuego","score":10},{"text":"Escuchar la lluvia","score":8},{"text":"El silencio absoluto","score":2},{"text":"La música suave","score":5}]},
+        {"text":"Tu aroma favorito:", "options":[{"text":"Lavanda","score":5},{"text":"Cítricos","score":10},{"text":"Pino o tierra mojada","score":8},{"text":"Vainilla","score":2}]},
+        {"text":"¿Cómo te sientes en una multitud?", "options":[{"text":"Abrumado","score":2},{"text":"Energizado","score":10},{"text":"Observador","score":8},{"text":"Incómodo","score":5}]},
+        {"text":"¿Crees en el destino?", "options":[{"text":"Totalmente","score":5},{"text":"Yo creo mi destino","score":10},{"text":"A veces","score":8},{"text":"No creo en nada de eso","score":2}]},
+        {"text":"Tu estación favorita:", "options":[{"text":"Primavera","score":5},{"text":"Verano","score":10},{"text":"Otoño","score":8},{"text":"Invierno","score":2}]},
+        {"text":"¿Qué animal te transmite paz?", "options":[{"text":"Gato","score":5},{"text":"Perro","score":8},{"text":"Delfín","score":2},{"text":"Fénix","score":10}]},
+        {"text":"¿Cómo es tu voz?", "options":[{"text":"Fuerte y clara","score":10},{"text":"Suave y melódica","score":5},{"text":"Profunda","score":8},{"text":"Tímida","score":2}]},
+        {"text":"Elige un paisaje:", "options":[{"text":"Un volcán","score":10},{"text":"Un lago cristalino","score":5},{"text":"Un bosque nublado","score":8},{"text":"Un campo de flores","score":2}]}
+    ],
+    "results":[
+        {"minScore":0,"maxScore":35,"text":"Aura Blanca/Azul 💠 - Eres un ser de paz, tranquilidad y sabiduría espiritual."},
+        {"minScore":36,"maxScore":75,"text":"Aura Verde/Violeta 🌿 - Tienes una energía de sanación, crecimiento y misterio."},
+        {"minScore":76,"maxScore":110,"text":"Aura Roja/Dorada 🔥 - Proyectas pasión, poder, ambición y una fuerza imparable."}
+    ]
+  }
+]

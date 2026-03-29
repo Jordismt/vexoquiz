@@ -1,0 +1,232 @@
+[
+  {
+    "id": 51,
+    "category": "brawl_stars",
+    "title": "¿Qué Brawler Legendario eres?",
+    "description": "Solo los más afortunados tienen estos poderes. ¿Cuál es el tuyo?",
+    "questions": [
+      {"text":"Tu mayor virtud en batalla:", "options":[{"text":"El sigilo y la sorpresa","score":10},{"text":"El veneno y el desgaste","score":8},{"text":"El control del mapa con arena","score":5},{"text":"La potencia de fuego pura","score":2}]},
+      {"text":"Si ves a un enemigo con poca vida escapando:", "options":[{"text":"Me hago invisible y lo cazo","score":10},{"text":"Le lanzo una daga envenenada","score":8},{"text":"Uso mi súper para frenarlo","score":5},{"text":"Le disparo desde mi posición","score":2}]},
+      {"text":"¿Cómo prefieres moverte?", "options":[{"text":"Muy rápido y saltando","score":8},{"text":"Lento pero imparable","score":2},{"text":"A velocidad normal pero constante","score":5},{"text":"Desapareciendo del mapa","score":10}]},
+      {"text":"Tu color favorito de ataque:", "options":[{"text":"Amarillo/Arena","score":5},{"text":"Verde tóxico","score":8},{"text":"Azul eléctrico/Fuego","score":2},{"text":"Transparente/Humo","score":10}]},
+      {"text":"¿Qué harías si te acorralan 3 enemigos?", "options":[{"text":"Uso una bomba de humo para huir","score":10},{"text":"Salto sobre ellos con veneno","score":8},{"text":"Pongo un muro de arena para sanar","score":5},{"text":"Disparo a todo lo que se mueva","score":2}]},
+      {"text":"¿Qué prefieres invocar?", "options":[{"text":"Un clon de mí mismo","score":10},{"text":"Una torreta de curación","score":5},{"text":"Un meca gigante","score":2},{"text":"Nada, mis dagas bastan","score":8}]},
+      {"text":"Tu mapa ideal de Supervivencia es:", "options":[{"text":"Uno con muchos arbustos","score":10},{"text":"Uno muy abierto","score":2},{"text":"Uno con muchos muros","score":5},{"text":"Cualquiera donde pueda campear","score":8}]},
+      {"text":"¿Cuál es tu mayor debilidad?", "options":[{"text":"Tener poca vida","score":8},{"text":"Ser muy lento","score":2},{"text":"Depender de mi Súper","score":10},{"text":"Que me detecten pronto","score":5}]},
+      {"text":"¿Qué gadget elegirías?", "options":[{"text":"Uno que me haga saltar","score":8},{"text":"Uno que me haga invisible","score":10},{"text":"Uno que aturda al rival","score":5},{"text":"Uno de escudo","score":2}]},
+      {"text":"En el Starr Park, tú eres:", "options":[{"text":"El que siempre está durmiendo","score":5},{"text":"El rebelde solitario","score":10},{"text":"El que tiene mucha suerte","score":2},{"text":"El que molesta a todos","score":8}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Sandy / Meg ☄️ - Eres el apoyo estratégico o la potencia tecnológica. Prefieres jugar con cabeza."},
+      {"minScore":36,"maxScore":75,"text":"Crow / Spike 🌵 - Letal, molesto y muy difícil de atrapar. Mantienes las distancias pero eres peligroso."},
+      {"minScore":76,"maxScore":100,"text":"Leon 🗡️ - El rey del sigilo. Tu estilo es esperar el momento perfecto y atacar por sorpresa."}
+    ]
+  },
+  {
+    "id": 52,
+    "category": "brawl_stars",
+    "title": "¿Qué rol ocupas en tu equipo de Brawl?",
+    "description": "Descubre si eres el que lleva las gemas o el que recibe los golpes.",
+    "questions": [
+      {"text":"¿Qué Brawler eliges primero?", "options":[{"text":"Un tanque (Frank, El Primo)","score":2},{"text":"Un francotirador (Piper, Belle)","score":8},{"text":"Un apoyo (Poco, Pam)","score":5},{"text":"Un asesino (Edgar, Mortis)","score":10}]},
+      {"text":"Tu posición en el mapa suele ser:", "options":[{"text":"En primera línea, recibiendo daño","score":2},{"text":"En los laterales, flanqueando","score":10},{"text":"En la retaguardia, disparando","score":8},{"text":"En el centro, controlando gemas","score":5}]},
+      {"text":"¿Cómo usas tu munición?", "options":[{"text":"A lo loco, apretando el botón","score":2},{"text":"Apunto cada disparo con cuidado","score":8},{"text":"Solo disparo si se acercan","score":5},{"text":"La guardo para el momento del 'dash'","score":10}]},
+      {"text":"Si un compañero tiene 9 gemas y poca vida:", "options":[{"text":"Me pongo delante para protegerle","score":2},{"text":"Le curo con mi Súper o Gadget","score":5},{"text":"Sigo atacando para alejar al rival","score":8},{"text":"Me escondo y espero que no muera","score":10}]},
+      {"text":"¿Cuál es tu modo favorito?", "options":[{"text":"Atraco (daño a la caja)","score":8},{"text":"Atrapagemas (control)","score":5},{"text":"Balón Brawl (fuerza)","score":2},{"text":"Noqueo (eliminación)","score":10}]},
+      {"text":"¿Qué accesorio valoras más?", "options":[{"text":"Un buen escudo","score":2},{"text":"Velocidad extra","score":10},{"text":"Más daño por segundo","score":8},{"text":"Curación rápida","score":5}]},
+      {"text":"Te enfrentas a un jefe de zona, tú:", "options":[{"text":"Le pegas de cerca sin parar","score":2},{"text":"Le disparas desde lejos","score":8},{"text":"Esperas a que tus aliados hagan el daño","score":10},{"text":"Le lanzas debuffs para frenarlo","score":5}]},
+      {"text":"¿Qué haces cuando pierdes una partida?", "options":[{"text":"Pido revancha de inmediato","score":10},{"text":"Analizo qué Brawler habría sido mejor","score":5},{"text":"Me enfado un poco","score":8},{"text":"Busco otro equipo","score":2}]},
+      {"text":"Tu mayor satisfacción es:", "options":[{"text":"Hacer un 'Team Wipe' solo","score":10},{"text":"Marcar el gol de la victoria","score":2},{"text":"Que nadie de mi equipo muera","score":5},{"text":"Robar las gemas en el último segundo","score":8}]},
+      {"text":"¿Cómo te mueves por el mapa?", "options":[{"text":"En línea recta hacia el enemigo","score":2},{"text":"Esquivando y zigzagueando","score":8},{"text":"De arbusto en arbusto","score":10},{"text":"Manteniendo las distancias","score":5}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"El Tanque del Equipo 🛡️ - Eres el escudo humano. Sin ti, el equipo caería en segundos."},
+      {"minScore":36,"maxScore":70,"text":"El Cerebro Táctico 🧠 - Controlas el centro y apoyas. Eres el pegamento del grupo."},
+      {"minScore":71,"maxScore":100,"text":"El Ejecutor Letal ⚡ - Te encargas de las bajas. Si alguien molesta, tú lo borras del mapa."}
+    ]
+  },
+  {
+    "id": 53,
+    "category": "brawl_stars",
+    "title": "¿Eres un 'Main Mortis' de verdad o un 'Fake'?",
+    "description": "La pala es un arma de doble filo. ¿Sabes usarla?",
+    "questions": [
+      {"text":"¿Qué skin llevas con Mortis?", "options":[{"text":"Mortis con sombrero (clásico)","score":5},{"text":"Mortis sin sombrero","score":15},{"text":"Mortis de Rogue (el de las dagas)","score":2},{"text":"Mortis Rockabilly","score":8}]},
+      {"text":"Ves a un Dynamike solo en un arbusto:", "options":[{"text":"¡Cena gratis! Voy directo","score":2},{"text":"Me lo pienso, puede tener el gadget de aturdir","score":8},{"text":"Le hago un baile antes de atacar","score":10},{"text":"Fallo los tres básicos contra el muro","score":20}]},
+      {"text":"¿Cómo usas tu Súper (los murciélagos)?", "options":[{"text":"Para rematar a alguien lejano","score":8},{"text":"Para curarme en medio de una pelea","score":2},{"text":"La lanzo a la nada por error","score":15},{"text":"Para atravesar a tres enemigos a la vez","score":0}]},
+      {"text":"¿Cuál es tu peor pesadilla?", "options":[{"text":"Un Bull en un arbusto","score":5},{"text":"Una Shelly con Súper","score":10},{"text":"Un muro mal puesto","score":15},{"text":"Gale y su soplador","score":12}]},
+      {"text":"En Balón Brawl, con Mortis tú:", "options":[{"text":"Hago 'trickshots' épicos","score":10},{"text":"Paso el balón y busco huecos","score":2},{"text":"Me quedo campeando para matar al portero","score":8},{"text":"Intento marcar y fallo estrepitosamente","score":15}]},
+      {"text":"¿Qué gadget prefieres?", "options":[{"text":"Pala rotativa (daño)","score":8},{"text":"Supervivencia inesperada (recarga)","score":2},{"text":"No tengo gadgets todavía","score":12}]},
+      {"text":"¿Cuántas veces te chocas con los muros por partida?", "options":[{"text":"Nunca, soy un pro","score":2},{"text":"Una o dos veces","score":8},{"text":"Es mi estado natural","score":15},{"text":"A veces el lag me traiciona","score":10}]},
+      {"text":"Tu objetivo principal en la partida es:", "options":[{"text":"Eliminar a los lanzadores enemigos","score":2},{"text":"Hacerte el chulo con los movimientos","score":10},{"text":"Llevar las gemas","score":15},{"text":"Distraer al equipo rival","score":5}]},
+      {"text":"¿Qué haces si el equipo rival tiene una Jacky?", "options":[{"text":"La ignoro y voy a por otros","score":5},{"text":"Intento matarla (mala idea)","score":15},{"text":"Espero a que gaste su munición","score":2},{"text":"Me quedo en base","score":20}]},
+      {"text":"¿Cómo te sientes cuando haces un 'Team Wipe'?", "options":[{"text":"Como un Dios del Brawl","score":2},{"text":"Fue pura suerte","score":10},{"text":"Pongo un spray de corazón","score":5},{"text":"Hago el emote de risa","score":12}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Criatura de la Noche 🧛‍♂️ - Eres un Mortis real. Sabes cuándo atacar y cuándo huir. ¡Miedo dan tus palazos!"},
+      {"minScore":41,"maxScore":85,"text":"Aprendiz de Enterrador ⚰️ - Tienes buenos momentos, pero los muros siguen siendo tus peores enemigos."},
+      {"minScore":86,"maxScore":150,"text":"Mortis de Wallmart 🧱 - Por favor, elige a Primo o Shelly. La pala no es lo tuyo (todavía)."}
+    ]
+  },
+  {
+    "id": 54,
+    "category": "brawl_stars",
+    "title": "¿Sobrevivirías un Showdown contra 9 Edgars?",
+    "description": "El caos total en el mapa. ¿Tienes los nervios de acero?",
+    "questions": [
+      {"text":"Empieza la partida y un Edgar salta hacia ti:", "options":[{"text":"Uso mi gadget de empuje","score":2},{"text":"Acepto mi destino","score":10},{"text":"Intento esquivarlo","score":5},{"text":"Me escondo","score":8}]},
+      {"text":"¿Qué Brawler has elegido?", "options":[{"text":"Bull/Jacky","score":2},{"text":"Piper/Bea","score":12},{"text":"Tick","score":15},{"text":"Gale/Otis","score":4}]},
+      {"text":"Hay un Edgar campeando:", "options":[{"text":"Entro a ver","score":12},{"text":"Disparo desde fuera","score":2},{"text":"Rodeo el mapa","score":5},{"text":"Hago teaming","score":8}]},
+      {"text":"Te quedan 100 de vida:", "options":[{"text":"Busco arbusto","score":5},{"text":"Voy al centro","score":10},{"text":"Uso mi súper","score":2},{"text":"Me rindo","score":15}]},
+      {"text":"¿Qué prefieres recoger?", "options":[{"text":"Cubos de fuerza","score":2},{"text":"Un batido energético","score":5},{"text":"Posición en el mapa","score":8},{"text":"Nada, solo huyo","score":12}]},
+      {"text":"Ves a dos Edgars peleando:", "options":[{"text":"Me meto en medio","score":12},{"text":"Espero a que uno muera y remato","score":2},{"text":"Huyo lejos","score":5},{"text":"Les disparo a ambos","score":8}]},
+      {"text":"¿Cómo usas los muros?", "options":[{"text":"Para cubrirme","score":2},{"text":"Para que no me salten","score":5},{"text":"Me estorban","score":10},{"text":"Para rebotar disparos","score":8}]},
+      {"text":"¿Confías en los demás?", "options":[{"text":"Nunca","score":2},{"text":"A veces","score":8},{"text":"Soy muy ingenuo","score":12},{"text":"Solo si tienen poca vida","score":5}]},
+      {"text":"El humo está muy cerca:", "options":[{"text":"Entro en el humo para despistar","score":10},{"text":"Me quedo en el borde","score":2},{"text":"Me pongo nervioso","score":8},{"text":"Uso escudo","score":5}]},
+      {"text":"¿Ganaste la partida?", "options":[{"text":"¡Sí!","score":2},{"text":"Quedé segundo","score":5},{"text":"Morí el primero","score":15},{"text":"No sé cómo sigo vivo","score":8}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Superviviente Maestro 🏆 - Sabes manejar la presión de los saltos. ¡Esa copa es tuya!"},
+      {"minScore":41,"maxScore":80,"text":"Segundo Puesto 🥈 - Aguantaste bien, pero el último Edgar tenía 15 cubos."},
+      {"minScore":81,"maxScore":130,"text":"Eliminado 💀 - La bufanda de Edgar fue lo último que viste."}
+    ]
+  },
+  {
+    "id": 55,
+    "category": "brawl_stars",
+    "title": "¿Qué Gadget salvaría tu vida?",
+    "description": "Esa habilidad extra que marca la diferencia en el momento justo.",
+    "questions": [
+      {"text":"Necesitas escapar rápido:", "options":[{"text":"Teletransporte","score":10},{"text":"Escudo instantáneo","score":5},{"text":"Impulso de velocidad","score":8},{"text":"Lanzar un clon","score":12}]},
+      {"text":"¿Prefieres molestar al enemigo o ayudarte?", "options":[{"text":"Ralentizarlos","score":10},{"text":"Curarme","score":5},{"text":"Recargar munición","score":8},{"text":"Aturdirlos","score":12}]},
+      {"text":"Te quedas sin balas frente a un enemigo:", "options":[{"text":"Uso gadget de recarga","score":2},{"text":"Uso gadget de retroceso","score":5},{"text":"Uso gadget de daño","score":10},{"text":"No tengo balas ni gadget","score":15}]},
+      {"text":"Tu estilo de gadget favorito:", "options":[{"text":"Defensivo","score":2},{"text":"Ofensivo","score":8},{"text":"De utilidad/movimiento","score":5},{"text":"De distracción","score":10}]},
+      {"text":"¿Cuándo usas el primer gadget?", "options":[{"text":"Nada más empezar","score":10},{"text":"Cuando estoy a mitad de vida","score":5},{"text":"Solo si es una emergencia","score":2},{"text":"Se me olvida usarlo","score":12}]},
+      {"text":"¿Qué prefieres invocar con un botón?", "options":[{"text":"Una pequeña torreta","score":8},{"text":"Un arbusto","score":12},{"text":"Una zona de salto","score":5},{"text":"Un proyectil extra","score":10}]},
+      {"text":"Ves a un enemigo escondido:", "options":[{"text":"Gadget de visión","score":2},{"text":"Gadget de área","score":5},{"text":"No hago nada","score":10},{"text":"Entro a por él","score":8}]},
+      {"text":"¿Cuántos gadgets sueles usar por partida?", "options":[{"text":"Los 3 siempre","score":5},{"text":"Me sobran siempre","score":10},{"text":"Los gasto muy rápido","score":8},{"text":"Solo los necesarios","score":2}]},
+      {"text":"¿Te han salvado alguna vez de la muerte?", "options":[{"text":"Muchas veces","score":2},{"text":"Alguna vez","score":5},{"text":"Casi nunca","score":10},{"text":"Al revés, morí usándolo","score":12}]},
+      {"text":"¿Qué brawler tiene el mejor gadget?", "options":[{"text":"Crow","score":10},{"text":"Piper","score":5},{"text":"Stu","score":2},{"text":"Dynamike","score":8}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Estratega Defensivo 🛡️ - Prefieres la seguridad y los gadgets que te mantienen vivo."},
+      {"minScore":41,"maxScore":80,"text":"Táctico Versátil ⚡ - Sabes usar tus herramientas para cambiar el ritmo de la partida."},
+      {"minScore":81,"maxScore":110,"text":"Agresivo Total 🔥 - Usas tus gadgets para presionar y eliminar. ¡Puro ataque!"}
+    ]
+  },
+  {
+    "id": 56,
+    "category": "brawl_stars",
+    "title": "¿En qué Trío del Starr Park encajas?",
+    "description": "Cada familia tiene su personalidad. ¿Cuál es la tuya?",
+    "questions": [
+      {"text":"Tu ambiente ideal:", "options":[{"text":"Desierto/Salvaje Oeste","score":2},{"text":"Ciudad futurista/Arcade","score":5},{"text":"Castillo medieval","score":8},{"text":"Parque de atracciones terrorífico","score":10}]},
+      {"text":"¿Qué prefieres hacer un sábado?", "options":[{"text":"Entrenar","score":2},{"text":"Reparar máquinas","score":5},{"text":"Leer magia","score":8},{"text":"Hacer bromas","score":10}]},
+      {"text":"Tu comida preferida:", "options":[{"text":"Barbacoa","score":2},{"text":"Batidos","score":10},{"text":"Caramelos","score":8},{"text":"Puntos de fuerza","score":5}]},
+      {"text":"¿Cómo eres en tu grupo de amigos?", "options":[{"text":"El líder rudo","score":2},{"text":"El inteligente/friki","score":5},{"text":"El misterioso","score":8},{"text":"El que da miedo","score":10}]},
+      {"text":"Tu color favorito:", "options":[{"text":"Rojo/Amarillo","score":2},{"text":"Azul/Neón","score":5},{"text":"Morado/Negro","score":8},{"text":"Verde/Naturaleza","score":6}]},
+      {"text":"¿Qué arma llevarías?", "options":[{"text":"Una escopeta","score":2},{"text":"Una consola de juegos","score":5},{"text":"Una pala o martillo","score":8},{"text":"Venenos o magia","score":10}]},
+      {"text":"¿Te gusta la nieve?", "options":[{"text":"Me encanta","score":12},{"text":"Prefiero el calor","score":2},{"text":"Me da igual","score":5}]},
+      {"text":"¿Eres ruidoso o silencioso?", "options":[{"text":"Muy ruidoso","score":2},{"text":"Depende del día","score":5},{"text":"Silencioso y observador","score":10}]},
+      {"text":"¿Crees en los fantasmas?", "options":[{"text":"Soy uno de ellos","score":10},{"text":"No","score":2},{"text":"Me dan miedo","score":8}]},
+      {"text":"Tu objetivo en la vida:", "options":[{"text":"Ser el más fuerte","score":2},{"text":"Tener la mejor tecnología","score":5},{"text":"Vivir aventuras mágicas","score":8},{"text":"Asustar a la gente","score":10}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":35,"text":"Trío del Oeste (Colt/Shelly) 🤠 - Eres un clásico, directo y valiente."},
+      {"minScore":36,"maxScore":70,"text":"Trío Arcade (8-Bit/Rico) 👾 - Tecnológico, preciso y un poco nostálgico."},
+      {"minScore":71,"maxScore":110,"text":"Trío Místico (Mortis/Tara/Gene) 🔮 - Enigmático, poderoso y muy diferente al resto."}
+    ]
+  },
+  {
+    "id": 57,
+    "category": "brawl_stars",
+    "title": "¿Eres un buen compañero de Balón Brawl?",
+    "description": "Pasa el balón o quédate en el banquillo. ¡Demuéstralo!",
+    "questions": [
+      {"text":"Tienes el balón y un enemigo delante:", "options":[{"text":"Se la paso a mi compañero libre","score":2},{"text":"Intento regatear","score":10},{"text":"Tiro el balón lejos","score":15},{"text":"Uso la súper para chutar","score":5}]},
+      {"text":"¿Qué brawler usas en este modo?", "options":[{"text":"Frank o El Primo","score":2},{"text":"Mortis","score":12},{"text":"Colette o Gale","score":5},{"text":"Cualquiera me sirve","score":8}]},
+      {"text":"Ves que un enemigo se acerca a tu portería:", "options":[{"text":"Me pongo delante para parar el balón","score":2},{"text":"Intento matarlo antes","score":8},{"text":"Me quedo mirando","score":15},{"text":"Uso gadget de área","score":5}]},
+      {"text":"¿Sabes hacer trickshots?", "options":[{"text":"Me salen siempre","score":10},{"text":"Solo si es necesario","score":5},{"text":"Nunca me salen","score":12},{"text":"No lo intento para no fallar","score":2}]},
+      {"text":"¿Pasa el balón a menudo?", "options":[{"text":"Siempre","score":2},{"text":"Casi nunca","score":10},{"text":"Si me acuerdo","score":8}]},
+      {"text":"¿Qué haces si tu equipo falla un gol claro?", "options":[{"text":"Pongo el emote de ánimo","score":2},{"text":"Pongo el de enfado","score":12},{"text":"Me quedo quieto","score":15},{"text":"Sigo jugando normal","score":5}]},
+      {"text":"¿Cuál es tu posición preferida?", "options":[{"text":"Portero","score":5},{"text":"Delantero","score":10},{"text":"Defensa/Apoyo","score":2}]},
+      {"text":"¿Cómo celebras un gol?", "options":[{"text":"Haciendo un baile","score":10},{"text":"Corriendo a mi base","score":2},{"text":"Haciendo disparos al aire","score":5}]},
+      {"text":"El enemigo tiene la súper cargada:", "options":[{"text":"Mantengo la distancia","score":2},{"text":"Voy a por él para que la gaste","score":8},{"text":"Tengo miedo","score":12}]},
+      {"text":"¿Juegas con amigos o randoms?", "options":[{"text":"Con amigos (coordinados)","score":2},{"text":"Con randoms (es un caos)","score":10}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Estrella del Equipo ⚽ - Juegas para ganar y sabes que el pase es la clave. ¡Crack!"},
+      {"minScore":41,"maxScore":80,"text":"Individualista Talentoso 🏃‍♂️ - Tienes buena técnica, pero confía más en tus aliados."},
+      {"minScore":81,"maxScore":120,"text":"Tóxico del Balón 🧱 - ¡Suelta la bola y deja de intentar trickshots imposibles!"}
+    ]
+  },
+  {
+    "id": 58,
+    "category": "brawl_stars",
+    "title": "¿Cuánto sabes de las Skins de Brawl Stars?",
+    "description": "No solo cuenta jugar bien, ¡hay que tener estilo!",
+    "questions": [
+      {"text":"¿Cuál fue la primera skin de Shelly?", "options":[{"text":"Shelly Estelar","score":10},{"text":"Shelly Bandida","score":5},{"text":"Shelly PSG","score":2}]},
+      {"text":"¿Cuánto cuesta una skin Legendaria?", "options":[{"text":"149 gemas","score":5},{"text":"299 gemas","score":10},{"text":"199 gemas","score":2}]},
+      {"text":"¿Qué brawler tiene una skin de Conejo?", "options":[{"text":"Penny","score":10},{"text":"Grom","score":8},{"text":"Ambos","score":12}]},
+      {"text":"¿De qué serie son las skins de Mecha?", "options":[{"text":"Inspiradas en Anime/Robots","score":10},{"text":"De una película de terror","score":2}]},
+      {"text":"¿Existe una skin de El Primo como tiburón?", "options":[{"text":"Sí","score":10},{"text":"No, es de Leon","score":15},{"text":"Es de Colt","score":2}]},
+      {"text":"¿Qué brawler tiene más skins?", "options":[{"text":"Colt","score":10},{"text":"Shelly","score":5},{"text":"Brock","score":8}]},
+      {"text":"¿Las skins dan ventaja competitiva?", "options":[{"text":"No, solo estética","score":10},{"text":"Sí, pegas más","score":2}]},
+      {"text":"¿Cuál es tu temática favorita?", "options":[{"text":"Piratas","score":5},{"text":"Navidad/Halloween","score":8},{"text":"Retro/8-Bit","score":10}]},
+      {"text":"¿Comprarías una skin dorada?", "options":[{"text":"Sí, para presumir oro","score":10},{"text":"No, es muy cara","score":2}]},
+      {"text":"¿Qué brawler tiene skin de Dios Griego?", "options":[{"text":"Brock (Zeus)","score":10},{"text":"Nani","score":2}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Default Skin 👕 - Te importa poco el aspecto, tú vienes a jugar."},
+      {"minScore":41,"maxScore":80,"text":"Coleccionista Aficionado 🎨 - Tienes tus skins favoritas y conoces el catálogo."},
+      {"minScore":81,"maxScore":110,"text":"Fashionista del Starr Park ✨ - Sabes exactamente qué skin salió en cada actualización."}
+    ]
+  },
+  {
+    "id": 59,
+    "category": "brawl_stars",
+    "title": "¿Qué Brawler de Supervivencia eres?",
+    "description": "Solo puede quedar uno. ¿Cómo ganas tú?",
+    "questions": [
+      {"text":"Apareces en el mapa, ¿qué haces?", "options":[{"text":"Voy a por la caja más cercana","score":2},{"text":"Busco a un enemigo débil","score":10},{"text":"Me escondo en el arbusto inicial","score":15},{"text":"Exploro el centro","score":5}]},
+      {"text":"Ves a alguien pidiendo 'Team' dando vueltas:", "options":[{"text":"Acepto y luego le traiciono","score":12},{"text":"Lo mato sin piedad","score":2},{"text":"Doy vueltas y somos amigos","score":15},{"text":"Me alejo","score":5}]},
+      {"text":"¿Cuántos cubos de fuerza necesitas para sentirte seguro?", "options":[{"text":"Con 1 me basta","score":2},{"text":"Mínimo 5","score":8},{"text":"Hasta que tenga 10 no ataco","score":12}]},
+      {"text":"¿Dónde prefieres estar cuando el humo se cierra?", "options":[{"text":"En el centro del mapa","score":5},{"text":"En el borde del humo","score":10},{"text":"Detrás de un muro","score":2}]},
+      {"text":"Tu brawler favorito para este modo:", "options":[{"text":"Edgar o Leon","score":10},{"text":"Shelly o Bull","score":5},{"text":"Surge o Cordelius","score":2}]},
+      {"text":"¿Qué haces si hay un campero?", "options":[{"text":"Disparo a todos los arbustos","score":2},{"text":"Entro de cara y muero","score":15},{"text":"Uso gadget de visión","score":5}]},
+      {"text":"¿Te gusta usar los batidos energéticos?", "options":[{"text":"Sí, voy a por todos","score":10},{"text":"Solo si están cerca","score":5},{"text":"Me dan miedo","score":8}]},
+      {"text":"Ves a dos personas peleando:", "options":[{"text":"Espero a que uno muera","score":2},{"text":"Ataco a los dos","score":10},{"text":"Me voy por otro lado","score":5}]},
+      {"text":"¿Cuántas copas has ganado hoy?", "options":[{"text":"Muchas","score":2},{"text":"He perdido más de las que gané","score":15},{"text":"Me mantengo igual","score":8}]},
+      {"text":"¿Eres de los que se rinden?", "options":[{"text":"Jamás","score":2},{"text":"A veces si me acorralan","score":10}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Guerrero Honorable ⚔️ - Ganas por habilidad y fuerza directa. ¡Respeto!"},
+      {"minScore":41,"maxScore":80,"text":"Estratega Oportunista 🦊 - Sabes cuándo atacar y cuándo esperar. Muy inteligente."},
+      {"minScore":81,"maxScore":120,"text":"El Campero Maestro 🌿 - Tu mejor amigo es el arbusto. ¡Qué susto das!"}
+    ]
+  },
+  {
+    "id": 60,
+    "category": "brawl_stars",
+    "title": "¿Cuál es tu nivel de Adicción a Brawl Stars?",
+    "description": "Cuidado... puede que el Starr Park te haya atrapado.",
+    "questions": [
+      {"text":"¿Cuántas veces abres el juego al día?", "options":[{"text":"Una vez","score":2},{"text":"Cada vez que tengo un minuto libre","score":12},{"text":"3 o 4 veces","score":8}]},
+      {"text":"¿Te sabes el nombre de todos los brawlers?", "options":[{"text":"Sí, y sus habilidades","score":10},{"text":"Solo los que tengo","score":5},{"text":"Casi todos","score":8}]},
+      {"text":"¿Ves la Brawl Talk en directo?", "options":[{"text":"Siempre, con palomitas","score":12},{"text":"La veo luego resumida","score":8},{"text":"No sé qué es","score":0}]},
+      {"text":"¿Has soñado alguna vez con el juego?", "options":[{"text":"Sí, varias veces","score":15},{"text":"Nunca","score":2}]},
+      {"text":"¿Cuánto tiempo juegas al día?", "options":[{"text":"Menos de 30 min","score":2},{"text":"De 1 a 3 horas","score":10},{"text":"Más de 5 horas","score":20}]},
+      {"text":"¿Gastas dinero en el juego?", "options":[{"text":"Solo el Pase de Batalla","score":8},{"text":"He gastado mucho en skins","score":15},{"text":"Soy 100% F2P","score":2}]},
+      {"text":"¿Tienes todos los brawlers?", "options":[{"text":"Sí, todos","score":15},{"text":"Me faltan los nuevos","score":10},{"text":"Me faltan muchos","score":5}]},
+      {"text":"¿Te enfadas si pierdes una racha?", "options":[{"text":"Me arruina el día","score":15},{"text":"Me molesta un poco","score":5},{"text":"Es solo un juego","score":2}]},
+      {"text":"¿Sigues a streamers de Brawl?", "options":[{"text":"Sí, a varios","score":10},{"text":"No","score":2}]},
+      {"text":"¿Estás leyendo esto mientras esperas a que cargue una partida?", "options":[{"text":"¡Sí!","score":20},{"text":"No","score":0}]}
+    ],
+    "results":[
+      {"minScore":0,"maxScore":40,"text":"Jugador Casual ☕ - Te gusta el juego pero tienes vida social. ¡Equilibrado!"},
+      {"minScore":41,"maxScore":90,"text":"Brawler Habitual 🎮 - Le dedicas tiempo y te gusta mejorar. ¡Buen nivel!"},
+      {"minScore":91,"maxScore":160,"text":"Adicto al Starr Park 😵‍💫 - ¡Cuidado! Estás a un paso de convertirte en un brawler real. ¡Tómate un descanso!"}
+    ]
+  }
+]
