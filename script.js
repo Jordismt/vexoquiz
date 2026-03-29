@@ -154,6 +154,7 @@ function handleAnswer(score) {
     if (state.qIndex < state.currentQuiz.questions.length) {
         updateUrl();
         renderQuestion();
+        refreshAds();
     } else {
         renderLoadingToResult();
     }
